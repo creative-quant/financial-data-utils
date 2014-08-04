@@ -1,0 +1,4239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="6" yahoo:created="2014-07-24T01:52:17Z" yahoo:lang="en-US">
+   <results>
+      <optionsChain expiration="2014-07-25" symbol="IBM">
+         <option symbol="IBM140725C00170000" type="C">
+            <strikePrice>170</strikePrice>
+            <lastPrice>24.38</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>22.3</bid>
+            <ask>25.25</ask>
+            <vol>10</vol>
+            <openInt>15</openInt>
+         </option>
+         <option symbol="IBM140725C00172500" type="C">
+            <strikePrice>172.5</strikePrice>
+            <lastPrice>22.66</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>20.15</bid>
+            <ask>22.4</ask>
+            <vol>2</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM140725C00175000" type="C">
+            <strikePrice>175</strikePrice>
+            <lastPrice>16.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>17.75</bid>
+            <ask>20.25</ask>
+            <vol>2</vol>
+            <openInt>11</openInt>
+         </option>
+         <option symbol="IBM140725C00177500" type="C">
+            <strikePrice>177.5</strikePrice>
+            <lastPrice>11.45</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>15.55</bid>
+            <ask>17.75</ask>
+            <vol>1</vol>
+            <openInt>37</openInt>
+         </option>
+         <option symbol="IBM140725C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>14.25</lastPrice>
+            <change>0.32</change>
+            <changeDir>Up</changeDir>
+            <bid>13.45</bid>
+            <ask>14.25</ask>
+            <vol>3</vol>
+            <openInt>110</openInt>
+         </option>
+         <option symbol="IBM140725C00182500" type="C">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>11.50</lastPrice>
+            <change>2.15</change>
+            <changeDir>Up</changeDir>
+            <bid>10.65</bid>
+            <ask>11.85</ask>
+            <vol>1</vol>
+            <openInt>178</openInt>
+         </option>
+         <option symbol="IBM140725C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>9.02</lastPrice>
+            <change>0.09</change>
+            <changeDir>Up</changeDir>
+            <bid>8.55</bid>
+            <ask>9.25</ask>
+            <vol>1</vol>
+            <openInt>556</openInt>
+         </option>
+         <option symbol="IBM140725C00187500" type="C">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>6.82</lastPrice>
+            <change>0.62</change>
+            <changeDir>Up</changeDir>
+            <bid>6.05</bid>
+            <ask>6.35</ask>
+            <vol>14</vol>
+            <openInt>1088</openInt>
+         </option>
+         <option symbol="IBM140725C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>3.75</lastPrice>
+            <change>-0.6</change>
+            <changeDir>Down</changeDir>
+            <bid>3.65</bid>
+            <ask>3.85</ask>
+            <vol>232</vol>
+            <openInt>826</openInt>
+         </option>
+         <option symbol="IBM140725C00192500" type="C">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>1.59</lastPrice>
+            <change>-0.81</change>
+            <changeDir>Down</changeDir>
+            <bid>1.53</bid>
+            <ask>1.64</ask>
+            <vol>121</vol>
+            <openInt>1037</openInt>
+         </option>
+         <option symbol="IBM140725C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>0.32</lastPrice>
+            <change>-0.49</change>
+            <changeDir>Down</changeDir>
+            <bid>0.31</bid>
+            <ask>0.37</ask>
+            <vol>618</vol>
+            <openInt>1720</openInt>
+         </option>
+         <option symbol="IBM140725C00197500" type="C">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>-0.15</change>
+            <changeDir>Down</changeDir>
+            <bid>0.03</bid>
+            <ask>0.06</ask>
+            <vol>270</vol>
+            <openInt>971</openInt>
+         </option>
+         <option symbol="IBM140725C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>-0.03</change>
+            <changeDir>Down</changeDir>
+            <bid>0.01</bid>
+            <ask>0.02</ask>
+            <vol>79</vol>
+            <openInt>1166</openInt>
+         </option>
+         <option symbol="IBM140725C00202500" type="C">
+            <strikePrice>202.5</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>-0.01</change>
+            <changeDir>Down</changeDir>
+            <bid>NaN</bid>
+            <ask>0.02</ask>
+            <vol>5</vol>
+            <openInt>257</openInt>
+         </option>
+         <option symbol="IBM140725C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>0.01</lastPrice>
+            <change>-0.01</change>
+            <changeDir>Down</changeDir>
+            <bid>NaN</bid>
+            <ask>0.02</ask>
+            <vol>4</vol>
+            <openInt>190</openInt>
+         </option>
+         <option symbol="IBM140725C00207500" type="C">
+            <strikePrice>207.5</strikePrice>
+            <lastPrice>0.01</lastPrice>
+            <change>-0.01</change>
+            <changeDir>Down</changeDir>
+            <bid>NaN</bid>
+            <ask>0.01</ask>
+            <vol>105</vol>
+            <openInt>269</openInt>
+         </option>
+         <option symbol="IBM140725C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>0.16</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.01</ask>
+            <vol>20</vol>
+            <openInt>567</openInt>
+         </option>
+         <option symbol="IBM140725C00212500" type="C">
+            <strikePrice>212.5</strikePrice>
+            <lastPrice>0.21</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>5</vol>
+            <openInt>5</openInt>
+         </option>
+         <option symbol="IBM140725C00215000" type="C">
+            <strikePrice>215</strikePrice>
+            <lastPrice>0.12</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.01</ask>
+            <vol>9</vol>
+            <openInt>21</openInt>
+         </option>
+         <option symbol="IBM140725C00217500" type="C">
+            <strikePrice>217.5</strikePrice>
+            <lastPrice>0.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140725C00222500" type="C">
+            <strikePrice>222.5</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140725C00227500" type="C">
+            <strikePrice>227.5</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140725C00230000" type="C">
+            <strikePrice>230</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140725P00157500" type="P">
+            <strikePrice>157.5</strikePrice>
+            <lastPrice>0.22</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>9</vol>
+            <openInt>9</openInt>
+         </option>
+         <option symbol="IBM140725P00160000" type="P">
+            <strikePrice>160</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.02</ask>
+            <vol>1</vol>
+            <openInt>58</openInt>
+         </option>
+         <option symbol="IBM140725P00162500" type="P">
+            <strikePrice>162.5</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>10</vol>
+            <openInt>34</openInt>
+         </option>
+         <option symbol="IBM140725P00165000" type="P">
+            <strikePrice>165</strikePrice>
+            <lastPrice>0.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>14</vol>
+            <openInt>36</openInt>
+         </option>
+         <option symbol="IBM140725P00167500" type="P">
+            <strikePrice>167.5</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.02</ask>
+            <vol>1</vol>
+            <openInt>314</openInt>
+         </option>
+         <option symbol="IBM140725P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>0.01</lastPrice>
+            <change>-0.01</change>
+            <changeDir>Down</changeDir>
+            <bid>NaN</bid>
+            <ask>0.02</ask>
+            <vol>10</vol>
+            <openInt>206</openInt>
+         </option>
+         <option symbol="IBM140725P00172500" type="P">
+            <strikePrice>172.5</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.02</ask>
+            <vol>1</vol>
+            <openInt>216</openInt>
+         </option>
+         <option symbol="IBM140725P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.02</ask>
+            <vol>46</vol>
+            <openInt>282</openInt>
+         </option>
+         <option symbol="IBM140725P00177500" type="P">
+            <strikePrice>177.5</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>219</vol>
+            <openInt>568</openInt>
+         </option>
+         <option symbol="IBM140725P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>0.01</lastPrice>
+            <change>-0.05</change>
+            <changeDir>Down</changeDir>
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>30</vol>
+            <openInt>802</openInt>
+         </option>
+         <option symbol="IBM140725P00182500" type="P">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>0.01</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>0.01</bid>
+            <ask>0.03</ask>
+            <vol>15</vol>
+            <openInt>760</openInt>
+         </option>
+         <option symbol="IBM140725P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>-0.03</change>
+            <changeDir>Down</changeDir>
+            <bid>0.01</bid>
+            <ask>0.03</ask>
+            <vol>29</vol>
+            <openInt>2033</openInt>
+         </option>
+         <option symbol="IBM140725P00187500" type="P">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>-0.04</change>
+            <changeDir>Down</changeDir>
+            <bid>0.05</bid>
+            <ask>0.06</ask>
+            <vol>50</vol>
+            <openInt>1809</openInt>
+         </option>
+         <option symbol="IBM140725P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>0.11</lastPrice>
+            <change>-0.11</change>
+            <changeDir>Down</changeDir>
+            <bid>0.1</bid>
+            <ask>0.14</ask>
+            <vol>214</vol>
+            <openInt>1991</openInt>
+         </option>
+         <option symbol="IBM140725P00192500" type="P">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>0.44</lastPrice>
+            <change>-0.12</change>
+            <changeDir>Down</changeDir>
+            <bid>0.42</bid>
+            <ask>0.45</ask>
+            <vol>598</vol>
+            <openInt>2252</openInt>
+         </option>
+         <option symbol="IBM140725P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>1.70</lastPrice>
+            <change>0.1</change>
+            <changeDir>Up</changeDir>
+            <bid>1.62</bid>
+            <ask>1.75</ask>
+            <vol>471</vol>
+            <openInt>873</openInt>
+         </option>
+         <option symbol="IBM140725P00197500" type="P">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>3.30</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>2.88</bid>
+            <ask>4.05</ask>
+            <vol>141</vol>
+            <openInt>285</openInt>
+         </option>
+         <option symbol="IBM140725P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>8.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>5.2</bid>
+            <ask>6.5</ask>
+            <vol>10</vol>
+            <openInt>85</openInt>
+         </option>
+         <option symbol="IBM140725P00205000" type="P">
+            <strikePrice>205</strikePrice>
+            <lastPrice>10.50</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>9.75</bid>
+            <ask>12.65</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+      </optionsChain>
+      <optionsChain expiration="2014-08" symbol="IBM">
+         <option symbol="IBM140816C00100000" type="C">
+            <strikePrice>100</strikePrice>
+            <lastPrice>93.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>92.1</bid>
+            <ask>96.1</ask>
+            <vol>2</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM140816C00150000" type="C">
+            <strikePrice>150</strikePrice>
+            <lastPrice>41.55</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>42.1</bid>
+            <ask>45.6</ask>
+            <vol>1</vol>
+            <openInt>8</openInt>
+         </option>
+         <option symbol="IBM140816C00160000" type="C">
+            <strikePrice>160</strikePrice>
+            <lastPrice>28.50</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>32.1</bid>
+            <ask>35.6</ask>
+            <vol>3</vol>
+            <openInt>32</openInt>
+         </option>
+         <option symbol="IBM140816C00165000" type="C">
+            <strikePrice>165</strikePrice>
+            <lastPrice>30.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>27.3</bid>
+            <ask>31.15</ask>
+            <vol>10</vol>
+            <openInt>21</openInt>
+         </option>
+         <option symbol="IBM140808C00170000" type="C">
+            <strikePrice>170</strikePrice>
+            <lastPrice>14.35</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>22.8</bid>
+            <ask>25.65</ask>
+            <vol>10</vol>
+            <openInt>10</openInt>
+         </option>
+         <option symbol="IBM140816C00170000" type="C">
+            <strikePrice>170</strikePrice>
+            <lastPrice>21.79</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>22.75</bid>
+            <ask>25.1</ask>
+            <vol>5</vol>
+            <openInt>102</openInt>
+         </option>
+         <option symbol="IBM140801C00175000" type="C">
+            <strikePrice>175</strikePrice>
+            <lastPrice>12.15</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>18.45</bid>
+            <ask>20.05</ask>
+            <vol>1</vol>
+            <openInt>50</openInt>
+         </option>
+         <option symbol="IBM140816C00175000" type="C">
+            <strikePrice>175</strikePrice>
+            <lastPrice>17.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>18.4</bid>
+            <ask>20.05</ask>
+            <vol>10</vol>
+            <openInt>244</openInt>
+         </option>
+         <option symbol="IBM140801C00177500" type="C">
+            <strikePrice>177.5</strikePrice>
+            <lastPrice>11.08</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>15.95</bid>
+            <ask>17.55</ask>
+            <vol>1</vol>
+            <openInt>12</openInt>
+         </option>
+         <option symbol="IBM140801C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>11.65</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>13.55</bid>
+            <ask>15.1</ask>
+            <vol>5</vol>
+            <openInt>68</openInt>
+         </option>
+         <option symbol="IBM140808C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>13.60</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>12.75</bid>
+            <ask>15.1</ask>
+            <vol>1</vol>
+            <openInt>41</openInt>
+         </option>
+         <option symbol="IBM140816C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>13.80</lastPrice>
+            <change>1.3</change>
+            <changeDir>Up</changeDir>
+            <bid>13.55</bid>
+            <ask>14.9</ask>
+            <vol>1</vol>
+            <openInt>558</openInt>
+         </option>
+         <option symbol="IBM140829C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>15.50</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>12.7</bid>
+            <ask>15.15</ask>
+            <vol>20</vol>
+            <openInt>47</openInt>
+         </option>
+         <option symbol="IBM140801C00182500" type="C">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>11.51</lastPrice>
+            <change>3.52</change>
+            <changeDir>Up</changeDir>
+            <bid>11.05</bid>
+            <ask>11.95</ask>
+            <vol>6</vol>
+            <openInt>262</openInt>
+         </option>
+         <option symbol="IBM140808C00182500" type="C">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>8.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>10.3</bid>
+            <ask>12.85</ask>
+            <vol>4</vol>
+            <openInt>17</openInt>
+         </option>
+         <option symbol="IBM140829C00182500" type="C">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>9.35</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>10.35</bid>
+            <ask>12.75</ask>
+            <vol>5</vol>
+            <openInt>4</openInt>
+         </option>
+         <option symbol="IBM140801C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>8.88</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>8.65</bid>
+            <ask>9.9</ask>
+            <vol>2</vol>
+            <openInt>340</openInt>
+         </option>
+         <option symbol="IBM140808C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>7.93</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>8.65</bid>
+            <ask>10.1</ask>
+            <vol>10</vol>
+            <openInt>67</openInt>
+         </option>
+         <option symbol="IBM140816C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>9.72</lastPrice>
+            <change>0.22</change>
+            <changeDir>Up</changeDir>
+            <bid>8.75</bid>
+            <ask>9.95</ask>
+            <vol>24</vol>
+            <openInt>3698</openInt>
+         </option>
+         <option symbol="IBM140822C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>11.45</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>8.8</bid>
+            <ask>10.15</ask>
+            <vol>5</vol>
+            <openInt>47</openInt>
+         </option>
+         <option symbol="IBM140829C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>7.65</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>8.85</bid>
+            <ask>10.15</ask>
+            <vol>3</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM140801C00187500" type="C">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>6.96</lastPrice>
+            <change>-0.09</change>
+            <changeDir>Down</changeDir>
+            <bid>6.3</bid>
+            <ask>7.15</ask>
+            <vol>1</vol>
+            <openInt>330</openInt>
+         </option>
+         <option symbol="IBM140808C00187500" type="C">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>6.24</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>6.35</bid>
+            <ask>7.4</ask>
+            <vol>2</vol>
+            <openInt>65</openInt>
+         </option>
+         <option symbol="IBM140822C00187500" type="C">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>7.57</lastPrice>
+            <change>3.12</change>
+            <changeDir>Up</changeDir>
+            <bid>6.55</bid>
+            <ask>7.95</ask>
+            <vol>5</vol>
+            <openInt>32</openInt>
+         </option>
+         <option symbol="IBM140829C00187500" type="C">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>7.55</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>6.65</bid>
+            <ask>8.15</ask>
+            <vol>8</vol>
+            <openInt>28</openInt>
+         </option>
+         <option symbol="IBM140801C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>4.41</lastPrice>
+            <change>-0.09</change>
+            <changeDir>Down</changeDir>
+            <bid>4.1</bid>
+            <ask>4.7</ask>
+            <vol>84</vol>
+            <openInt>604</openInt>
+         </option>
+         <option symbol="IBM140808C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>5.20</lastPrice>
+            <change>0.05</change>
+            <changeDir>Up</changeDir>
+            <bid>4.3</bid>
+            <ask>4.5</ask>
+            <vol>12</vol>
+            <openInt>554</openInt>
+         </option>
+         <option symbol="IBM140816C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>4.46</lastPrice>
+            <change>-0.63</change>
+            <changeDir>Down</changeDir>
+            <bid>4.4</bid>
+            <ask>4.6</ask>
+            <vol>273</vol>
+            <openInt>3955</openInt>
+         </option>
+         <option symbol="IBM140822C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>5.09</lastPrice>
+            <change>0.09</change>
+            <changeDir>Up</changeDir>
+            <bid>4.6</bid>
+            <ask>5.25</ask>
+            <vol>20</vol>
+            <openInt>208</openInt>
+         </option>
+         <option symbol="IBM140829C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>5.63</lastPrice>
+            <change>0.23</change>
+            <changeDir>Up</changeDir>
+            <bid>4.9</bid>
+            <ask>5.5</ask>
+            <vol>7</vol>
+            <openInt>121</openInt>
+         </option>
+         <option symbol="IBM140801C00192500" type="C">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>2.51</lastPrice>
+            <change>-0.48</change>
+            <changeDir>Down</changeDir>
+            <bid>2.2</bid>
+            <ask>2.46</ask>
+            <vol>83</vol>
+            <openInt>1029</openInt>
+         </option>
+         <option symbol="IBM140808C00192500" type="C">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>3.24</lastPrice>
+            <change>0.09</change>
+            <changeDir>Up</changeDir>
+            <bid>2.52</bid>
+            <ask>2.65</ask>
+            <vol>4</vol>
+            <openInt>520</openInt>
+         </option>
+         <option symbol="IBM140822C00192500" type="C">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>3.58</lastPrice>
+            <change>0.58</change>
+            <changeDir>Up</changeDir>
+            <bid>3</bid>
+            <ask>3.35</ask>
+            <vol>5</vol>
+            <openInt>136</openInt>
+         </option>
+         <option symbol="IBM140829C00192500" type="C">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>4.01</lastPrice>
+            <change>0.01</change>
+            <changeDir>Up</changeDir>
+            <bid>3.3</bid>
+            <ask>3.7</ask>
+            <vol>1</vol>
+            <openInt>195</openInt>
+         </option>
+         <option symbol="IBM140801C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>1.06</lastPrice>
+            <change>-0.45</change>
+            <changeDir>Down</changeDir>
+            <bid>0.97</bid>
+            <ask>1.03</ask>
+            <vol>314</vol>
+            <openInt>614</openInt>
+         </option>
+         <option symbol="IBM140808C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>1.73</lastPrice>
+            <change>-0.05</change>
+            <changeDir>Down</changeDir>
+            <bid>1.31</bid>
+            <ask>1.37</ask>
+            <vol>85</vol>
+            <openInt>512</openInt>
+         </option>
+         <option symbol="IBM140816C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>1.64</lastPrice>
+            <change>-0.36</change>
+            <changeDir>Down</changeDir>
+            <bid>1.59</bid>
+            <ask>1.63</ask>
+            <vol>1021</vol>
+            <openInt>5947</openInt>
+         </option>
+         <option symbol="IBM140822C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>2.15</lastPrice>
+            <change>-0.15</change>
+            <changeDir>Down</changeDir>
+            <bid>1.82</bid>
+            <ask>2.07</ask>
+            <vol>3</vol>
+            <openInt>256</openInt>
+         </option>
+         <option symbol="IBM140829C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>2.24</lastPrice>
+            <change>-0.36</change>
+            <changeDir>Down</changeDir>
+            <bid>2.13</bid>
+            <ask>2.25</ask>
+            <vol>45</vol>
+            <openInt>181</openInt>
+         </option>
+         <option symbol="IBM140801C00197500" type="C">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>0.52</lastPrice>
+            <change>-0.13</change>
+            <changeDir>Down</changeDir>
+            <bid>0.35</bid>
+            <ask>0.39</ask>
+            <vol>166</vol>
+            <openInt>268</openInt>
+         </option>
+         <option symbol="IBM140808C00197500" type="C">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>0.77</lastPrice>
+            <change>-0.13</change>
+            <changeDir>Down</changeDir>
+            <bid>0.6</bid>
+            <ask>0.75</ask>
+            <vol>40</vol>
+            <openInt>847</openInt>
+         </option>
+         <option symbol="IBM140822C00197500" type="C">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>1.19</lastPrice>
+            <change>0.16</change>
+            <changeDir>Up</changeDir>
+            <bid>1.01</bid>
+            <ask>1.09</ask>
+            <vol>121</vol>
+            <openInt>178</openInt>
+         </option>
+         <option symbol="IBM140829C00197500" type="C">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>1.51</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>1.3</bid>
+            <ask>1.57</ask>
+            <vol>6</vol>
+            <openInt>196</openInt>
+         </option>
+         <option symbol="IBM140801C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>0.16</lastPrice>
+            <change>-0.06</change>
+            <changeDir>Down</changeDir>
+            <bid>0.12</bid>
+            <ask>0.16</ask>
+            <vol>91</vol>
+            <openInt>277</openInt>
+         </option>
+         <option symbol="IBM140808C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>0.36</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.26</bid>
+            <ask>0.35</ask>
+            <vol>8</vol>
+            <openInt>182</openInt>
+         </option>
+         <option symbol="IBM140816C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>0.41</lastPrice>
+            <change>-0.15</change>
+            <changeDir>Down</changeDir>
+            <bid>0.37</bid>
+            <ask>0.4</ask>
+            <vol>446</vol>
+            <openInt>3459</openInt>
+         </option>
+         <option symbol="IBM140822C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>0.65</lastPrice>
+            <change>-0.03</change>
+            <changeDir>Down</changeDir>
+            <bid>0.54</bid>
+            <ask>0.68</ask>
+            <vol>13</vol>
+            <openInt>100</openInt>
+         </option>
+         <option symbol="IBM140829C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>0.82</lastPrice>
+            <change>0.25</change>
+            <changeDir>Up</changeDir>
+            <bid>0.76</bid>
+            <ask>0.82</ask>
+            <vol>20</vol>
+            <openInt>30</openInt>
+         </option>
+         <option symbol="IBM140801C00202500" type="C">
+            <strikePrice>202.5</strikePrice>
+            <lastPrice>0.07</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.03</bid>
+            <ask>0.12</ask>
+            <vol>30</vol>
+            <openInt>281</openInt>
+         </option>
+         <option symbol="IBM140808C00202500" type="C">
+            <strikePrice>202.5</strikePrice>
+            <lastPrice>0.18</lastPrice>
+            <change>0.04</change>
+            <changeDir>Up</changeDir>
+            <bid>0.12</bid>
+            <ask>0.18</ask>
+            <vol>2</vol>
+            <openInt>97</openInt>
+         </option>
+         <option symbol="IBM140822C00202500" type="C">
+            <strikePrice>202.5</strikePrice>
+            <lastPrice>0.34</lastPrice>
+            <change>0.18</change>
+            <changeDir>Up</changeDir>
+            <bid>0.28</bid>
+            <ask>0.38</ask>
+            <vol>15</vol>
+            <openInt>955</openInt>
+         </option>
+         <option symbol="IBM140829C00202500" type="C">
+            <strikePrice>202.5</strikePrice>
+            <lastPrice>0.50</lastPrice>
+            <change>0.13</change>
+            <changeDir>Up</changeDir>
+            <bid>0.42</bid>
+            <ask>0.57</ask>
+            <vol>2</vol>
+            <openInt>93</openInt>
+         </option>
+         <option symbol="IBM140801C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.07</ask>
+            <vol>9</vol>
+            <openInt>67</openInt>
+         </option>
+         <option symbol="IBM140808C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>0.08</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.04</bid>
+            <ask>0.1</ask>
+            <vol>8</vol>
+            <openInt>36</openInt>
+         </option>
+         <option symbol="IBM140816C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>0.09</lastPrice>
+            <change>-0.03</change>
+            <changeDir>Down</changeDir>
+            <bid>0.08</bid>
+            <ask>0.1</ask>
+            <vol>192</vol>
+            <openInt>2980</openInt>
+         </option>
+         <option symbol="IBM140822C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>0.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.13</bid>
+            <ask>0.23</ask>
+            <vol>3</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM140829C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>0.31</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.22</bid>
+            <ask>0.36</ask>
+            <vol>6</vol>
+            <openInt>12</openInt>
+         </option>
+         <option symbol="IBM140801C00207500" type="C">
+            <strikePrice>207.5</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>-0.01</change>
+            <changeDir>Down</changeDir>
+            <bid>0.01</bid>
+            <ask>0.05</ask>
+            <vol>4</vol>
+            <openInt>23</openInt>
+         </option>
+         <option symbol="IBM140808C00207500" type="C">
+            <strikePrice>207.5</strikePrice>
+            <lastPrice>0.47</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.07</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140822C00207500" type="C">
+            <strikePrice>207.5</strikePrice>
+            <lastPrice>0.17</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.08</bid>
+            <ask>0.15</ask>
+            <vol>10</vol>
+            <openInt>10</openInt>
+         </option>
+         <option symbol="IBM140829C00207500" type="C">
+            <strikePrice>207.5</strikePrice>
+            <lastPrice>0.19</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.1</bid>
+            <ask>0.21</ask>
+            <vol>2</vol>
+            <openInt>3</openInt>
+         </option>
+         <option symbol="IBM140801C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.04</ask>
+            <vol>24</vol>
+            <openInt>381</openInt>
+         </option>
+         <option symbol="IBM140808C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>0.01</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.04</ask>
+            <vol>8</vol>
+            <openInt>15</openInt>
+         </option>
+         <option symbol="IBM140816C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>0.01</lastPrice>
+            <change>-0.06</change>
+            <changeDir>Down</changeDir>
+            <bid>0.01</bid>
+            <ask>0.03</ask>
+            <vol>26</vol>
+            <openInt>744</openInt>
+         </option>
+         <option symbol="IBM140829C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>0.52</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.04</bid>
+            <ask>0.15</ask>
+            <vol>3</vol>
+            <openInt>3</openInt>
+         </option>
+         <option symbol="IBM140801C00212500" type="C">
+            <strikePrice>212.5</strikePrice>
+            <lastPrice>0.15</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.04</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140808C00215000" type="C">
+            <strikePrice>215</strikePrice>
+            <lastPrice>0.13</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.04</ask>
+            <vol>10</vol>
+            <openInt>10</openInt>
+         </option>
+         <option symbol="IBM140816C00215000" type="C">
+            <strikePrice>215</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>10</vol>
+            <openInt>202</openInt>
+         </option>
+         <option symbol="IBM140829C00215000" type="C">
+            <strikePrice>215</strikePrice>
+            <lastPrice>0.16</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.08</ask>
+            <vol>10</vol>
+            <openInt>10</openInt>
+         </option>
+         <option symbol="IBM140822C00217500" type="C">
+            <strikePrice>217.5</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>1</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM140801C00220000" type="C">
+            <strikePrice>220</strikePrice>
+            <lastPrice>0.07</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>12</vol>
+            <openInt>12</openInt>
+         </option>
+         <option symbol="IBM140816C00220000" type="C">
+            <strikePrice>220</strikePrice>
+            <lastPrice>0.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>11</vol>
+            <openInt>244</openInt>
+         </option>
+         <option symbol="IBM140822C00220000" type="C">
+            <strikePrice>220</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140816C00225000" type="C">
+            <strikePrice>225</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.04</ask>
+            <vol>6</vol>
+            <openInt>6</openInt>
+         </option>
+         <option symbol="IBM140801C00227500" type="C">
+            <strikePrice>227.5</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140816C00230000" type="C">
+            <strikePrice>230</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>23</vol>
+            <openInt>28</openInt>
+         </option>
+         <option symbol="IBM140822C00232500" type="C">
+            <strikePrice>232.5</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140816P00120000" type="P">
+            <strikePrice>120</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>35</vol>
+            <openInt>35</openInt>
+         </option>
+         <option symbol="IBM140816P00130000" type="P">
+            <strikePrice>130</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.03</ask>
+            <vol>20</vol>
+            <openInt>20</openInt>
+         </option>
+         <option symbol="IBM140816P00135000" type="P">
+            <strikePrice>135</strikePrice>
+            <lastPrice>0.09</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.04</ask>
+            <vol>4</vol>
+            <openInt>16</openInt>
+         </option>
+         <option symbol="IBM140816P00140000" type="P">
+            <strikePrice>140</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.06</ask>
+            <vol>2</vol>
+            <openInt>7</openInt>
+         </option>
+         <option symbol="IBM140816P00145000" type="P">
+            <strikePrice>145</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>47</vol>
+            <openInt>54</openInt>
+         </option>
+         <option symbol="IBM140816P00150000" type="P">
+            <strikePrice>150</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.06</ask>
+            <vol>5</vol>
+            <openInt>74</openInt>
+         </option>
+         <option symbol="IBM140816P00155000" type="P">
+            <strikePrice>155</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>36</vol>
+            <openInt>401</openInt>
+         </option>
+         <option symbol="IBM140829P00155000" type="P">
+            <strikePrice>155</strikePrice>
+            <lastPrice>0.21</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.09</ask>
+            <vol>8</vol>
+            <openInt>8</openInt>
+         </option>
+         <option symbol="IBM140801P00157500" type="P">
+            <strikePrice>157.5</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>-0.2</change>
+            <changeDir>Down</changeDir>
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>4</vol>
+            <openInt>15</openInt>
+         </option>
+         <option symbol="IBM140829P00157500" type="P">
+            <strikePrice>157.5</strikePrice>
+            <lastPrice>0.30</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.1</ask>
+            <vol>7</vol>
+            <openInt>7</openInt>
+         </option>
+         <option symbol="IBM140801P00160000" type="P">
+            <strikePrice>160</strikePrice>
+            <lastPrice>0.11</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>10</vol>
+            <openInt>11</openInt>
+         </option>
+         <option symbol="IBM140816P00160000" type="P">
+            <strikePrice>160</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>-0.01</change>
+            <changeDir>Down</changeDir>
+            <bid>0.01</bid>
+            <ask>0.05</ask>
+            <vol>2</vol>
+            <openInt>316</openInt>
+         </option>
+         <option symbol="IBM140822P00160000" type="P">
+            <strikePrice>160</strikePrice>
+            <lastPrice>0.21</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.06</ask>
+            <vol>10</vol>
+            <openInt>19</openInt>
+         </option>
+         <option symbol="IBM140801P00162500" type="P">
+            <strikePrice>162.5</strikePrice>
+            <lastPrice>0.31</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>NaN</vol>
+            <openInt>7</openInt>
+         </option>
+         <option symbol="IBM140808P00162500" type="P">
+            <strikePrice>162.5</strikePrice>
+            <lastPrice>0.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.06</ask>
+            <vol>4</vol>
+            <openInt>7</openInt>
+         </option>
+         <option symbol="IBM140829P00162500" type="P">
+            <strikePrice>162.5</strikePrice>
+            <lastPrice>0.28</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.04</bid>
+            <ask>0.15</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140801P00165000" type="P">
+            <strikePrice>165</strikePrice>
+            <lastPrice>0.62</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>89</vol>
+            <openInt>89</openInt>
+         </option>
+         <option symbol="IBM140816P00165000" type="P">
+            <strikePrice>165</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.06</ask>
+            <vol>25</vol>
+            <openInt>774</openInt>
+         </option>
+         <option symbol="IBM140822P00165000" type="P">
+            <strikePrice>165</strikePrice>
+            <lastPrice>0.16</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.07</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM140801P00167500" type="P">
+            <strikePrice>167.5</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0.01</change>
+            <changeDir>Up</changeDir>
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>4</vol>
+            <openInt>66</openInt>
+         </option>
+         <option symbol="IBM140808P00167500" type="P">
+            <strikePrice>167.5</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.07</ask>
+            <vol>2</vol>
+            <openInt>37</openInt>
+         </option>
+         <option symbol="IBM140801P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>0.18</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.05</ask>
+            <vol>1</vol>
+            <openInt>93</openInt>
+         </option>
+         <option symbol="IBM140808P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>0.23</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.07</ask>
+            <vol>10</vol>
+            <openInt>64</openInt>
+         </option>
+         <option symbol="IBM140816P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.03</bid>
+            <ask>0.06</ask>
+            <vol>52</vol>
+            <openInt>1319</openInt>
+         </option>
+         <option symbol="IBM140822P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>0.31</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.05</bid>
+            <ask>0.09</ask>
+            <vol>1</vol>
+            <openInt>110</openInt>
+         </option>
+         <option symbol="IBM140829P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>0.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.08</bid>
+            <ask>0.25</ask>
+            <vol>2</vol>
+            <openInt>10</openInt>
+         </option>
+         <option symbol="IBM140801P00172500" type="P">
+            <strikePrice>172.5</strikePrice>
+            <lastPrice>0.34</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.04</ask>
+            <vol>10</vol>
+            <openInt>73</openInt>
+         </option>
+         <option symbol="IBM140808P00172500" type="P">
+            <strikePrice>172.5</strikePrice>
+            <lastPrice>0.26</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.08</ask>
+            <vol>4</vol>
+            <openInt>26</openInt>
+         </option>
+         <option symbol="IBM140822P00172500" type="P">
+            <strikePrice>172.5</strikePrice>
+            <lastPrice>0.42</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.08</bid>
+            <ask>0.12</ask>
+            <vol>10</vol>
+            <openInt>120</openInt>
+         </option>
+         <option symbol="IBM140829P00172500" type="P">
+            <strikePrice>172.5</strikePrice>
+            <lastPrice>0.31</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.11</bid>
+            <ask>0.27</ask>
+            <vol>1</vol>
+            <openInt>8</openInt>
+         </option>
+         <option symbol="IBM140801P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>0.02</bid>
+            <ask>0.05</ask>
+            <vol>2</vol>
+            <openInt>190</openInt>
+         </option>
+         <option symbol="IBM140808P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>0.37</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.03</bid>
+            <ask>0.08</ask>
+            <vol>12</vol>
+            <openInt>82</openInt>
+         </option>
+         <option symbol="IBM140816P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>0.10</lastPrice>
+            <change>0.01</change>
+            <changeDir>Up</changeDir>
+            <bid>0.07</bid>
+            <ask>0.12</ask>
+            <vol>78</vol>
+            <openInt>4325</openInt>
+         </option>
+         <option symbol="IBM140822P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>0.52</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.09</bid>
+            <ask>0.26</ask>
+            <vol>1</vol>
+            <openInt>40</openInt>
+         </option>
+         <option symbol="IBM140829P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>1.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.15</bid>
+            <ask>0.32</ask>
+            <vol>33</vol>
+            <openInt>33</openInt>
+         </option>
+         <option symbol="IBM140801P00177500" type="P">
+            <strikePrice>177.5</strikePrice>
+            <lastPrice>0.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.07</ask>
+            <vol>8</vol>
+            <openInt>77</openInt>
+         </option>
+         <option symbol="IBM140808P00177500" type="P">
+            <strikePrice>177.5</strikePrice>
+            <lastPrice>0.60</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.05</bid>
+            <ask>0.09</ask>
+            <vol>187</vol>
+            <openInt>225</openInt>
+         </option>
+         <option symbol="IBM140822P00177500" type="P">
+            <strikePrice>177.5</strikePrice>
+            <lastPrice>0.30</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.14</bid>
+            <ask>0.31</ask>
+            <vol>5</vol>
+            <openInt>37</openInt>
+         </option>
+         <option symbol="IBM140829P00177500" type="P">
+            <strikePrice>177.5</strikePrice>
+            <lastPrice>0.35</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>0.28</bid>
+            <ask>0.4</ask>
+            <vol>13</vol>
+            <openInt>6</openInt>
+         </option>
+         <option symbol="IBM140801P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>0.03</bid>
+            <ask>0.06</ask>
+            <vol>2</vol>
+            <openInt>316</openInt>
+         </option>
+         <option symbol="IBM140808P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>0.10</lastPrice>
+            <change>-0.08</change>
+            <changeDir>Down</changeDir>
+            <bid>0.09</bid>
+            <ask>0.14</ask>
+            <vol>47</vol>
+            <openInt>167</openInt>
+         </option>
+         <option symbol="IBM140816P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>0.16</lastPrice>
+            <change>-0.03</change>
+            <changeDir>Down</changeDir>
+            <bid>0.14</bid>
+            <ask>0.19</ask>
+            <vol>187</vol>
+            <openInt>4464</openInt>
+         </option>
+         <option symbol="IBM140822P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>0.56</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.23</bid>
+            <ask>0.37</ask>
+            <vol>45</vol>
+            <openInt>1495</openInt>
+         </option>
+         <option symbol="IBM140829P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>0.45</lastPrice>
+            <change>-0.08</change>
+            <changeDir>Down</changeDir>
+            <bid>0.32</bid>
+            <ask>0.52</ask>
+            <vol>5</vol>
+            <openInt>44</openInt>
+         </option>
+         <option symbol="IBM140801P00182500" type="P">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>0.09</lastPrice>
+            <change>-0.03</change>
+            <changeDir>Down</changeDir>
+            <bid>0.05</bid>
+            <ask>0.11</ask>
+            <vol>10</vol>
+            <openInt>883</openInt>
+         </option>
+         <option symbol="IBM140808P00182500" type="P">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>0.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.13</bid>
+            <ask>0.21</ask>
+            <vol>11</vol>
+            <openInt>298</openInt>
+         </option>
+         <option symbol="IBM140822P00182500" type="P">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>0.86</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.37</bid>
+            <ask>0.54</ask>
+            <vol>4</vol>
+            <openInt>57</openInt>
+         </option>
+         <option symbol="IBM140829P00182500" type="P">
+            <strikePrice>182.5</strikePrice>
+            <lastPrice>0.50</lastPrice>
+            <change>-0.2</change>
+            <changeDir>Down</changeDir>
+            <bid>0.51</bid>
+            <ask>0.71</ask>
+            <vol>1</vol>
+            <openInt>158</openInt>
+         </option>
+         <option symbol="IBM140801P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>0.11</lastPrice>
+            <change>-0.01</change>
+            <changeDir>Down</changeDir>
+            <bid>0.1</bid>
+            <ask>0.15</ask>
+            <vol>34</vol>
+            <openInt>650</openInt>
+         </option>
+         <option symbol="IBM140808P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>0.31</lastPrice>
+            <change>-0.06</change>
+            <changeDir>Down</changeDir>
+            <bid>0.27</bid>
+            <ask>0.34</ask>
+            <vol>8</vol>
+            <openInt>439</openInt>
+         </option>
+         <option symbol="IBM140816P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>0.49</lastPrice>
+            <change>-0.03</change>
+            <changeDir>Down</changeDir>
+            <bid>0.48</bid>
+            <ask>0.51</ask>
+            <vol>256</vol>
+            <openInt>4193</openInt>
+         </option>
+         <option symbol="IBM140822P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>0.60</lastPrice>
+            <change>-0.14</change>
+            <changeDir>Down</changeDir>
+            <bid>0.67</bid>
+            <ask>0.78</ask>
+            <vol>7</vol>
+            <openInt>1511</openInt>
+         </option>
+         <option symbol="IBM140829P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>1.01</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.92</bid>
+            <ask>1</ask>
+            <vol>43</vol>
+            <openInt>129</openInt>
+         </option>
+         <option symbol="IBM140801P00187500" type="P">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>0.21</lastPrice>
+            <change>-0.06</change>
+            <changeDir>Down</changeDir>
+            <bid>0.21</bid>
+            <ask>0.25</ask>
+            <vol>73</vol>
+            <openInt>1024</openInt>
+         </option>
+         <option symbol="IBM140808P00187500" type="P">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>0.54</lastPrice>
+            <change>-0.05</change>
+            <changeDir>Down</changeDir>
+            <bid>0.5</bid>
+            <ask>0.62</ask>
+            <vol>20</vol>
+            <openInt>410</openInt>
+         </option>
+         <option symbol="IBM140822P00187500" type="P">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>1.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>1.06</bid>
+            <ask>1.2</ask>
+            <vol>6</vol>
+            <openInt>314</openInt>
+         </option>
+         <option symbol="IBM140829P00187500" type="P">
+            <strikePrice>187.5</strikePrice>
+            <lastPrice>1.38</lastPrice>
+            <change>-0.08</change>
+            <changeDir>Down</changeDir>
+            <bid>1.41</bid>
+            <ask>1.48</ask>
+            <vol>24</vol>
+            <openInt>50</openInt>
+         </option>
+         <option symbol="IBM140801P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>0.38</lastPrice>
+            <change>-0.18</change>
+            <changeDir>Down</changeDir>
+            <bid>0.48</bid>
+            <ask>0.52</ask>
+            <vol>87</vol>
+            <openInt>910</openInt>
+         </option>
+         <option symbol="IBM140808P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>1.02</lastPrice>
+            <change>-0.08</change>
+            <changeDir>Down</changeDir>
+            <bid>1.07</bid>
+            <ask>1.14</ask>
+            <vol>22</vol>
+            <openInt>342</openInt>
+         </option>
+         <option symbol="IBM140816P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>1.48</lastPrice>
+            <change>0.06</change>
+            <changeDir>Up</changeDir>
+            <bid>1.47</bid>
+            <ask>1.52</ask>
+            <vol>286</vol>
+            <openInt>2687</openInt>
+         </option>
+         <option symbol="IBM140822P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>1.59</lastPrice>
+            <change>-0.32</change>
+            <changeDir>Down</changeDir>
+            <bid>1.77</bid>
+            <ask>1.89</ask>
+            <vol>2</vol>
+            <openInt>277</openInt>
+         </option>
+         <option symbol="IBM140829P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>2.10</lastPrice>
+            <change>0.1</change>
+            <changeDir>Up</changeDir>
+            <bid>2.11</bid>
+            <ask>2.22</ask>
+            <vol>12</vol>
+            <openInt>150</openInt>
+         </option>
+         <option symbol="IBM140801P00192500" type="P">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>1.06</lastPrice>
+            <change>0.03</change>
+            <changeDir>Up</changeDir>
+            <bid>1.08</bid>
+            <ask>1.16</ask>
+            <vol>85</vol>
+            <openInt>556</openInt>
+         </option>
+         <option symbol="IBM140808P00192500" type="P">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>1.89</lastPrice>
+            <change>0.05</change>
+            <changeDir>Up</changeDir>
+            <bid>1.99</bid>
+            <ask>2.1</ask>
+            <vol>11</vol>
+            <openInt>283</openInt>
+         </option>
+         <option symbol="IBM140822P00192500" type="P">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>2.74</lastPrice>
+            <change>0.01</change>
+            <changeDir>Up</changeDir>
+            <bid>2.75</bid>
+            <ask>2.93</ask>
+            <vol>13</vol>
+            <openInt>50</openInt>
+         </option>
+         <option symbol="IBM140829P00192500" type="P">
+            <strikePrice>192.5</strikePrice>
+            <lastPrice>4.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>3.1</bid>
+            <ask>3.3</ask>
+            <vol>6</vol>
+            <openInt>58</openInt>
+         </option>
+         <option symbol="IBM140801P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>2.30</lastPrice>
+            <change>0.3</change>
+            <changeDir>Up</changeDir>
+            <bid>2.26</bid>
+            <ask>2.41</ask>
+            <vol>104</vol>
+            <openInt>142</openInt>
+         </option>
+         <option symbol="IBM140808P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>3.28</lastPrice>
+            <change>0.08</change>
+            <changeDir>Up</changeDir>
+            <bid>3.45</bid>
+            <ask>3.6</ask>
+            <vol>19</vol>
+            <openInt>286</openInt>
+         </option>
+         <option symbol="IBM140816P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>3.80</lastPrice>
+            <change>0.25</change>
+            <changeDir>Up</changeDir>
+            <bid>3.85</bid>
+            <ask>3.95</ask>
+            <vol>185</vol>
+            <openInt>787</openInt>
+         </option>
+         <option symbol="IBM140822P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>3.80</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>4.1</bid>
+            <ask>4.3</ask>
+            <vol>42</vol>
+            <openInt>42</openInt>
+         </option>
+         <option symbol="IBM140829P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>4.65</lastPrice>
+            <change>-0.25</change>
+            <changeDir>Down</changeDir>
+            <bid>4.45</bid>
+            <ask>4.65</ask>
+            <vol>15</vol>
+            <openInt>19</openInt>
+         </option>
+         <option symbol="IBM140801P00197500" type="P">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>3.65</lastPrice>
+            <change>-1.13</change>
+            <changeDir>Down</changeDir>
+            <bid>3.85</bid>
+            <ask>4.35</ask>
+            <vol>5</vol>
+            <openInt>222</openInt>
+         </option>
+         <option symbol="IBM140808P00197500" type="P">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>5.55</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>5.3</bid>
+            <ask>5.55</ask>
+            <vol>9</vol>
+            <openInt>5</openInt>
+         </option>
+         <option symbol="IBM140822P00197500" type="P">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>5.20</lastPrice>
+            <change>-1.2</change>
+            <changeDir>Down</changeDir>
+            <bid>5.35</bid>
+            <ask>6.1</ask>
+            <vol>5</vol>
+            <openInt>14</openInt>
+         </option>
+         <option symbol="IBM140829P00197500" type="P">
+            <strikePrice>197.5</strikePrice>
+            <lastPrice>6.70</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>6.1</bid>
+            <ask>6.35</ask>
+            <vol>3</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM140801P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>5.90</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>5.35</bid>
+            <ask>6.65</ask>
+            <vol>85</vol>
+            <openInt>130</openInt>
+         </option>
+         <option symbol="IBM140808P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>13.75</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>6.45</bid>
+            <ask>7.9</ask>
+            <vol>10</vol>
+            <openInt>10</openInt>
+         </option>
+         <option symbol="IBM140816P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>7.33</lastPrice>
+            <change>-0.47</change>
+            <changeDir>Down</changeDir>
+            <bid>6.9</bid>
+            <ask>7.9</ask>
+            <vol>6</vol>
+            <openInt>327</openInt>
+         </option>
+         <option symbol="IBM140822P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>8.55</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>6.85</bid>
+            <ask>8.2</ask>
+            <vol>6</vol>
+            <openInt>6</openInt>
+         </option>
+         <option symbol="IBM140829P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>8.70</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>7</bid>
+            <ask>8.5</ask>
+            <vol>7</vol>
+            <openInt>7</openInt>
+         </option>
+         <option symbol="IBM140816P00205000" type="P">
+            <strikePrice>205</strikePrice>
+            <lastPrice>12.90</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>10.75</bid>
+            <ask>12.65</ask>
+            <vol>1</vol>
+            <openInt>97</openInt>
+         </option>
+         <option symbol="IBM140808P00207500" type="P">
+            <strikePrice>207.5</strikePrice>
+            <lastPrice>20.85</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>13.3</bid>
+            <ask>15.7</ask>
+            <vol>10</vol>
+            <openInt>10</openInt>
+         </option>
+         <option symbol="IBM140822P00207500" type="P">
+            <strikePrice>207.5</strikePrice>
+            <lastPrice>15.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>13.05</bid>
+            <ask>16.55</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+      </optionsChain>
+      <optionsChain expiration="2014-09-20" symbol="IBM">
+         <option symbol="IBM140920C00170000" type="C">
+            <strikePrice>170</strikePrice>
+            <lastPrice>20.30</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>22.8</bid>
+            <ask>25.15</ask>
+            <vol>10</vol>
+            <openInt>13</openInt>
+         </option>
+         <option symbol="IBM140920C00175000" type="C">
+            <strikePrice>175</strikePrice>
+            <lastPrice>15.35</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>17.8</bid>
+            <ask>20.7</ask>
+            <vol>2</vol>
+            <openInt>54</openInt>
+         </option>
+         <option symbol="IBM140920C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>14.78</lastPrice>
+            <change>0.72</change>
+            <changeDir>Up</changeDir>
+            <bid>13.75</bid>
+            <ask>15.15</ask>
+            <vol>2</vol>
+            <openInt>628</openInt>
+         </option>
+         <option symbol="IBM140920C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>10.14</lastPrice>
+            <change>-0.16</change>
+            <changeDir>Down</changeDir>
+            <bid>9.35</bid>
+            <ask>10.5</ask>
+            <vol>33</vol>
+            <openInt>508</openInt>
+         </option>
+         <option symbol="IBM140920C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>6.37</lastPrice>
+            <change>0.12</change>
+            <changeDir>Up</changeDir>
+            <bid>5.6</bid>
+            <ask>5.8</ask>
+            <vol>36</vol>
+            <openInt>854</openInt>
+         </option>
+         <option symbol="IBM140920C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>3.05</lastPrice>
+            <change>-0.35</change>
+            <changeDir>Down</changeDir>
+            <bid>2.99</bid>
+            <ask>3.05</ask>
+            <vol>259</vol>
+            <openInt>1721</openInt>
+         </option>
+         <option symbol="IBM140920C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>1.47</lastPrice>
+            <change>-0.15</change>
+            <changeDir>Down</changeDir>
+            <bid>1.42</bid>
+            <ask>1.47</ask>
+            <vol>362</vol>
+            <openInt>7790</openInt>
+         </option>
+         <option symbol="IBM140920C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>0.60</lastPrice>
+            <change>-0.11</change>
+            <changeDir>Down</changeDir>
+            <bid>0.59</bid>
+            <ask>0.64</ask>
+            <vol>244</vol>
+            <openInt>498</openInt>
+         </option>
+         <option symbol="IBM140920C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>0.29</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>0.24</bid>
+            <ask>0.27</ask>
+            <vol>78</vol>
+            <openInt>336</openInt>
+         </option>
+         <option symbol="IBM140920C00215000" type="C">
+            <strikePrice>215</strikePrice>
+            <lastPrice>0.11</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.09</bid>
+            <ask>0.15</ask>
+            <vol>77</vol>
+            <openInt>39</openInt>
+         </option>
+         <option symbol="IBM140920P00125000" type="P">
+            <strikePrice>125</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.07</ask>
+            <vol>2</vol>
+            <openInt>23</openInt>
+         </option>
+         <option symbol="IBM140920P00135000" type="P">
+            <strikePrice>135</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.07</ask>
+            <vol>2</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM140920P00140000" type="P">
+            <strikePrice>140</strikePrice>
+            <lastPrice>0.15</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.09</ask>
+            <vol>5</vol>
+            <openInt>5</openInt>
+         </option>
+         <option symbol="IBM140920P00145000" type="P">
+            <strikePrice>145</strikePrice>
+            <lastPrice>0.32</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.03</bid>
+            <ask>0.11</ask>
+            <vol>12</vol>
+            <openInt>12</openInt>
+         </option>
+         <option symbol="IBM140920P00150000" type="P">
+            <strikePrice>150</strikePrice>
+            <lastPrice>0.19</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.14</ask>
+            <vol>1</vol>
+            <openInt>24</openInt>
+         </option>
+         <option symbol="IBM140920P00155000" type="P">
+            <strikePrice>155</strikePrice>
+            <lastPrice>0.13</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.18</ask>
+            <vol>2</vol>
+            <openInt>46</openInt>
+         </option>
+         <option symbol="IBM140920P00160000" type="P">
+            <strikePrice>160</strikePrice>
+            <lastPrice>0.08</lastPrice>
+            <change>-0.07</change>
+            <changeDir>Down</changeDir>
+            <bid>0.08</bid>
+            <ask>0.17</ask>
+            <vol>10</vol>
+            <openInt>121</openInt>
+         </option>
+         <option symbol="IBM140920P00165000" type="P">
+            <strikePrice>165</strikePrice>
+            <lastPrice>0.17</lastPrice>
+            <change>-0.1</change>
+            <changeDir>Down</changeDir>
+            <bid>0.14</bid>
+            <ask>0.19</ask>
+            <vol>48</vol>
+            <openInt>885</openInt>
+         </option>
+         <option symbol="IBM140920P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>0.33</lastPrice>
+            <change>0.01</change>
+            <changeDir>Up</changeDir>
+            <bid>0.24</bid>
+            <ask>0.3</ask>
+            <vol>25</vol>
+            <openInt>477</openInt>
+         </option>
+         <option symbol="IBM140920P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>0.48</lastPrice>
+            <change>0.02</change>
+            <changeDir>Up</changeDir>
+            <bid>0.44</bid>
+            <ask>0.46</ask>
+            <vol>46</vol>
+            <openInt>1220</openInt>
+         </option>
+         <option symbol="IBM140920P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>0.81</lastPrice>
+            <change>0.01</change>
+            <changeDir>Up</changeDir>
+            <bid>0.82</bid>
+            <ask>0.86</ask>
+            <vol>205</vol>
+            <openInt>1517</openInt>
+         </option>
+         <option symbol="IBM140920P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>1.58</lastPrice>
+            <change>0.04</change>
+            <changeDir>Up</changeDir>
+            <bid>1.56</bid>
+            <ask>1.61</ask>
+            <vol>100</vol>
+            <openInt>1226</openInt>
+         </option>
+         <option symbol="IBM140920P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>3.00</lastPrice>
+            <change>0.18</change>
+            <changeDir>Up</changeDir>
+            <bid>2.97</bid>
+            <ask>3.05</ask>
+            <vol>55</vol>
+            <openInt>767</openInt>
+         </option>
+         <option symbol="IBM140920P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>5.28</lastPrice>
+            <change>0.23</change>
+            <changeDir>Up</changeDir>
+            <bid>5.3</bid>
+            <ask>5.45</ask>
+            <vol>65</vol>
+            <openInt>1846</openInt>
+         </option>
+         <option symbol="IBM140920P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>8.80</lastPrice>
+            <change>0.3</change>
+            <changeDir>Up</changeDir>
+            <bid>8.65</bid>
+            <ask>8.85</ask>
+            <vol>77</vol>
+            <openInt>269</openInt>
+         </option>
+         <option symbol="IBM140920P00205000" type="P">
+            <strikePrice>205</strikePrice>
+            <lastPrice>14.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>11.75</bid>
+            <ask>13.15</ask>
+            <vol>20</vol>
+            <openInt>30</openInt>
+         </option>
+         <option symbol="IBM140920P00210000" type="P">
+            <strikePrice>210</strikePrice>
+            <lastPrice>20.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>15.7</bid>
+            <ask>18.45</ask>
+            <vol>1</vol>
+            <openInt>4</openInt>
+         </option>
+      </optionsChain>
+      <optionsChain expiration="2014-10-18" symbol="IBM">
+         <option symbol="IBM141018C00105000" type="C">
+            <strikePrice>105</strikePrice>
+            <lastPrice>80.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>87.1</bid>
+            <ask>91.05</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM141018C00125000" type="C">
+            <strikePrice>125</strikePrice>
+            <lastPrice>63.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>67.1</bid>
+            <ask>69.45</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM141018C00135000" type="C">
+            <strikePrice>135</strikePrice>
+            <lastPrice>54.99</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>57.1</bid>
+            <ask>61.15</ask>
+            <vol>4</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM141018C00145000" type="C">
+            <strikePrice>145</strikePrice>
+            <lastPrice>39.40</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>47.1</bid>
+            <ask>51.1</ask>
+            <vol>2</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM141018C00150000" type="C">
+            <strikePrice>150</strikePrice>
+            <lastPrice>44.68</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>42.5</bid>
+            <ask>46.05</ask>
+            <vol>2</vol>
+            <openInt>13</openInt>
+         </option>
+         <option symbol="IBM141018C00155000" type="C">
+            <strikePrice>155</strikePrice>
+            <lastPrice>39.42</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>37.8</bid>
+            <ask>40.5</ask>
+            <vol>1</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM141018C00160000" type="C">
+            <strikePrice>160</strikePrice>
+            <lastPrice>34.55</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>32.8</bid>
+            <ask>35.75</ask>
+            <vol>3</vol>
+            <openInt>128</openInt>
+         </option>
+         <option symbol="IBM141018C00165000" type="C">
+            <strikePrice>165</strikePrice>
+            <lastPrice>29.60</lastPrice>
+            <change>3.5</change>
+            <changeDir>Up</changeDir>
+            <bid>27.85</bid>
+            <ask>30.4</ask>
+            <vol>5</vol>
+            <openInt>31</openInt>
+         </option>
+         <option symbol="IBM141018C00170000" type="C">
+            <strikePrice>170</strikePrice>
+            <lastPrice>24.63</lastPrice>
+            <change>0.76</change>
+            <changeDir>Up</changeDir>
+            <bid>23.7</bid>
+            <ask>24.2</ask>
+            <vol>16</vol>
+            <openInt>175</openInt>
+         </option>
+         <option symbol="IBM141018C00175000" type="C">
+            <strikePrice>175</strikePrice>
+            <lastPrice>19.70</lastPrice>
+            <change>0.4</change>
+            <changeDir>Up</changeDir>
+            <bid>19</bid>
+            <ask>20.35</ask>
+            <vol>5</vol>
+            <openInt>354</openInt>
+         </option>
+         <option symbol="IBM141018C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>15.25</lastPrice>
+            <change>0.35</change>
+            <changeDir>Up</changeDir>
+            <bid>14.55</bid>
+            <ask>15.4</ask>
+            <vol>2</vol>
+            <openInt>640</openInt>
+         </option>
+         <option symbol="IBM141018C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>11.45</lastPrice>
+            <change>0.1</change>
+            <changeDir>Up</changeDir>
+            <bid>10.6</bid>
+            <ask>10.9</ask>
+            <vol>24</vol>
+            <openInt>2303</openInt>
+         </option>
+         <option symbol="IBM141018C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>7.39</lastPrice>
+            <change>-0.26</change>
+            <changeDir>Down</changeDir>
+            <bid>7.25</bid>
+            <ask>7.4</ask>
+            <vol>35</vol>
+            <openInt>4256</openInt>
+         </option>
+         <option symbol="IBM141018C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>4.69</lastPrice>
+            <change>-0.26</change>
+            <changeDir>Down</changeDir>
+            <bid>4.6</bid>
+            <ask>4.7</ask>
+            <vol>75</vol>
+            <openInt>3222</openInt>
+         </option>
+         <option symbol="IBM141018C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>2.76</lastPrice>
+            <change>-0.28</change>
+            <changeDir>Down</changeDir>
+            <bid>2.7</bid>
+            <ask>2.78</ask>
+            <vol>125</vol>
+            <openInt>4278</openInt>
+         </option>
+         <option symbol="IBM141018C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>1.51</lastPrice>
+            <change>-0.09</change>
+            <changeDir>Down</changeDir>
+            <bid>1.49</bid>
+            <ask>1.54</ask>
+            <vol>141</vol>
+            <openInt>2216</openInt>
+         </option>
+         <option symbol="IBM141018C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>0.91</lastPrice>
+            <change>0.06</change>
+            <changeDir>Up</changeDir>
+            <bid>0.78</bid>
+            <ask>0.85</ask>
+            <vol>47</vol>
+            <openInt>2519</openInt>
+         </option>
+         <option symbol="IBM141018C00215000" type="C">
+            <strikePrice>215</strikePrice>
+            <lastPrice>0.48</lastPrice>
+            <change>0.09</change>
+            <changeDir>Up</changeDir>
+            <bid>0.39</bid>
+            <ask>0.48</ask>
+            <vol>12</vol>
+            <openInt>1907</openInt>
+         </option>
+         <option symbol="IBM141018C00220000" type="C">
+            <strikePrice>220</strikePrice>
+            <lastPrice>0.20</lastPrice>
+            <change>0.05</change>
+            <changeDir>Up</changeDir>
+            <bid>0.17</bid>
+            <ask>0.25</ask>
+            <vol>5</vol>
+            <openInt>514</openInt>
+         </option>
+         <option symbol="IBM141018C00225000" type="C">
+            <strikePrice>225</strikePrice>
+            <lastPrice>0.12</lastPrice>
+            <change>0.01</change>
+            <changeDir>Up</changeDir>
+            <bid>0.11</bid>
+            <ask>0.15</ask>
+            <vol>2</vol>
+            <openInt>107</openInt>
+         </option>
+         <option symbol="IBM141018C00230000" type="C">
+            <strikePrice>230</strikePrice>
+            <lastPrice>0.08</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>0.05</bid>
+            <ask>0.15</ask>
+            <vol>10</vol>
+            <openInt>256</openInt>
+         </option>
+         <option symbol="IBM141018C00235000" type="C">
+            <strikePrice>235</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>-0.11</change>
+            <changeDir>Down</changeDir>
+            <bid>0.02</bid>
+            <ask>0.08</ask>
+            <vol>33</vol>
+            <openInt>242</openInt>
+         </option>
+         <option symbol="IBM141018C00240000" type="C">
+            <strikePrice>240</strikePrice>
+            <lastPrice>0.09</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.1</ask>
+            <vol>74</vol>
+            <openInt>87</openInt>
+         </option>
+         <option symbol="IBM141018C00245000" type="C">
+            <strikePrice>245</strikePrice>
+            <lastPrice>0.08</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.07</ask>
+            <vol>11</vol>
+            <openInt>11</openInt>
+         </option>
+         <option symbol="IBM141018C00250000" type="C">
+            <strikePrice>250</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>1</vol>
+            <openInt>62</openInt>
+         </option>
+         <option symbol="IBM141018C00255000" type="C">
+            <strikePrice>255</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>5</vol>
+            <openInt>5</openInt>
+         </option>
+         <option symbol="IBM141018C00265000" type="C">
+            <strikePrice>265</strikePrice>
+            <lastPrice>0.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.04</ask>
+            <vol>12</vol>
+            <openInt>12</openInt>
+         </option>
+         <option symbol="IBM141018P00095000" type="P">
+            <strikePrice>95</strikePrice>
+            <lastPrice>0.02</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.06</ask>
+            <vol>1</vol>
+            <openInt>14</openInt>
+         </option>
+         <option symbol="IBM141018P00100000" type="P">
+            <strikePrice>100</strikePrice>
+            <lastPrice>0.07</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.06</ask>
+            <vol>30</vol>
+            <openInt>30</openInt>
+         </option>
+         <option symbol="IBM141018P00110000" type="P">
+            <strikePrice>110</strikePrice>
+            <lastPrice>0.08</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.07</ask>
+            <vol>20</vol>
+            <openInt>29</openInt>
+         </option>
+         <option symbol="IBM141018P00115000" type="P">
+            <strikePrice>115</strikePrice>
+            <lastPrice>0.08</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.07</ask>
+            <vol>12</vol>
+            <openInt>22</openInt>
+         </option>
+         <option symbol="IBM141018P00120000" type="P">
+            <strikePrice>120</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.07</ask>
+            <vol>2</vol>
+            <openInt>39</openInt>
+         </option>
+         <option symbol="IBM141018P00125000" type="P">
+            <strikePrice>125</strikePrice>
+            <lastPrice>0.16</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.02</bid>
+            <ask>0.08</ask>
+            <vol>6</vol>
+            <openInt>16</openInt>
+         </option>
+         <option symbol="IBM141018P00130000" type="P">
+            <strikePrice>130</strikePrice>
+            <lastPrice>0.13</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.05</bid>
+            <ask>0.1</ask>
+            <vol>20</vol>
+            <openInt>73</openInt>
+         </option>
+         <option symbol="IBM141018P00135000" type="P">
+            <strikePrice>135</strikePrice>
+            <lastPrice>0.12</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.05</bid>
+            <ask>0.12</ask>
+            <vol>1</vol>
+            <openInt>49</openInt>
+         </option>
+         <option symbol="IBM141018P00140000" type="P">
+            <strikePrice>140</strikePrice>
+            <lastPrice>0.22</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.05</bid>
+            <ask>0.17</ask>
+            <vol>1</vol>
+            <openInt>103</openInt>
+         </option>
+         <option symbol="IBM141018P00145000" type="P">
+            <strikePrice>145</strikePrice>
+            <lastPrice>0.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.12</bid>
+            <ask>0.17</ask>
+            <vol>8</vol>
+            <openInt>175</openInt>
+         </option>
+         <option symbol="IBM141018P00150000" type="P">
+            <strikePrice>150</strikePrice>
+            <lastPrice>0.22</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.14</bid>
+            <ask>0.26</ask>
+            <vol>2</vol>
+            <openInt>754</openInt>
+         </option>
+         <option symbol="IBM141018P00155000" type="P">
+            <strikePrice>155</strikePrice>
+            <lastPrice>0.27</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.2</bid>
+            <ask>0.31</ask>
+            <vol>12</vol>
+            <openInt>749</openInt>
+         </option>
+         <option symbol="IBM141018P00160000" type="P">
+            <strikePrice>160</strikePrice>
+            <lastPrice>0.44</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.31</bid>
+            <ask>0.39</ask>
+            <vol>20</vol>
+            <openInt>847</openInt>
+         </option>
+         <option symbol="IBM141018P00165000" type="P">
+            <strikePrice>165</strikePrice>
+            <lastPrice>0.51</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>0.48</bid>
+            <ask>0.55</ask>
+            <vol>16</vol>
+            <openInt>4052</openInt>
+         </option>
+         <option symbol="IBM141018P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>0.75</lastPrice>
+            <change>0.01</change>
+            <changeDir>Up</changeDir>
+            <bid>0.71</bid>
+            <ask>0.78</ask>
+            <vol>25</vol>
+            <openInt>1654</openInt>
+         </option>
+         <option symbol="IBM141018P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>1.14</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>1.18</bid>
+            <ask>1.21</ask>
+            <vol>114</vol>
+            <openInt>3884</openInt>
+         </option>
+         <option symbol="IBM141018P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>1.80</lastPrice>
+            <change>0.05</change>
+            <changeDir>Up</changeDir>
+            <bid>1.85</bid>
+            <ask>1.92</ask>
+            <vol>132</vol>
+            <openInt>3051</openInt>
+         </option>
+         <option symbol="IBM141018P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>2.85</lastPrice>
+            <change>-0.05</change>
+            <changeDir>Down</changeDir>
+            <bid>2.85</bid>
+            <ask>3</ask>
+            <vol>37</vol>
+            <openInt>5225</openInt>
+         </option>
+         <option symbol="IBM141018P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>4.60</lastPrice>
+            <change>0.21</change>
+            <changeDir>Up</changeDir>
+            <bid>4.5</bid>
+            <ask>4.7</ask>
+            <vol>42</vol>
+            <openInt>3035</openInt>
+         </option>
+         <option symbol="IBM141018P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>6.70</lastPrice>
+            <change>0.07</change>
+            <changeDir>Up</changeDir>
+            <bid>6.85</bid>
+            <ask>7</ask>
+            <vol>65</vol>
+            <openInt>974</openInt>
+         </option>
+         <option symbol="IBM141018P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>9.75</lastPrice>
+            <change>0.1</change>
+            <changeDir>Up</changeDir>
+            <bid>9.8</bid>
+            <ask>10.15</ask>
+            <vol>26</vol>
+            <openInt>505</openInt>
+         </option>
+         <option symbol="IBM141018P00205000" type="P">
+            <strikePrice>205</strikePrice>
+            <lastPrice>16.70</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>13.65</bid>
+            <ask>13.95</ask>
+            <vol>11</vol>
+            <openInt>112</openInt>
+         </option>
+         <option symbol="IBM141018P00210000" type="P">
+            <strikePrice>210</strikePrice>
+            <lastPrice>20.70</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>16.6</bid>
+            <ask>18.25</ask>
+            <vol>3</vol>
+            <openInt>108</openInt>
+         </option>
+         <option symbol="IBM141018P00215000" type="P">
+            <strikePrice>215</strikePrice>
+            <lastPrice>29.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>21.05</bid>
+            <ask>22.9</ask>
+            <vol>4</vol>
+            <openInt>90</openInt>
+         </option>
+         <option symbol="IBM141018P00220000" type="P">
+            <strikePrice>220</strikePrice>
+            <lastPrice>32.70</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>25.35</bid>
+            <ask>28.45</ask>
+            <vol>1</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM141018P00230000" type="P">
+            <strikePrice>230</strikePrice>
+            <lastPrice>40.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>35</bid>
+            <ask>38.2</ask>
+            <vol>1</vol>
+            <openInt>1</openInt>
+         </option>
+      </optionsChain>
+      <optionsChain expiration="2015-01-17" symbol="IBM">
+         <option symbol="IBM150117C00095000" type="C">
+            <strikePrice>95</strikePrice>
+            <lastPrice>97.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>97.1</bid>
+            <ask>101.1</ask>
+            <vol>2</vol>
+            <openInt>12</openInt>
+         </option>
+         <option symbol="IBM150117C00100000" type="C">
+            <strikePrice>100</strikePrice>
+            <lastPrice>80.65</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>92.1</bid>
+            <ask>96.1</ask>
+            <vol>2</vol>
+            <openInt>35</openInt>
+         </option>
+         <option symbol="IBM150117C00105000" type="C">
+            <strikePrice>105</strikePrice>
+            <lastPrice>85.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>87.1</bid>
+            <ask>91.05</ask>
+            <vol>8</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM150117C00110000" type="C">
+            <strikePrice>110</strikePrice>
+            <lastPrice>80.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>82.1</bid>
+            <ask>86.05</ask>
+            <vol>2</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM150117C00115000" type="C">
+            <strikePrice>115</strikePrice>
+            <lastPrice>68.85</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>77.05</bid>
+            <ask>81.1</ask>
+            <vol>10</vol>
+            <openInt>11</openInt>
+         </option>
+         <option symbol="IBM150117C00120000" type="C">
+            <strikePrice>120</strikePrice>
+            <lastPrice>69.92</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>72.1</bid>
+            <ask>76.05</ask>
+            <vol>4</vol>
+            <openInt>16</openInt>
+         </option>
+         <option symbol="IBM150117C00125000" type="C">
+            <strikePrice>125</strikePrice>
+            <lastPrice>57.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>67.1</bid>
+            <ask>71.1</ask>
+            <vol>7</vol>
+            <openInt>13</openInt>
+         </option>
+         <option symbol="IBM150117C00130000" type="C">
+            <strikePrice>130</strikePrice>
+            <lastPrice>52.02</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>62</bid>
+            <ask>65.65</ask>
+            <vol>9</vol>
+            <openInt>783</openInt>
+         </option>
+         <option symbol="IBM150117C00135000" type="C">
+            <strikePrice>135</strikePrice>
+            <lastPrice>57.80</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>57.1</bid>
+            <ask>61.15</ask>
+            <vol>5</vol>
+            <openInt>13</openInt>
+         </option>
+         <option symbol="IBM150117C00140000" type="C">
+            <strikePrice>140</strikePrice>
+            <lastPrice>51.80</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>52.15</bid>
+            <ask>55.35</ask>
+            <vol>1</vol>
+            <openInt>194</openInt>
+         </option>
+         <option symbol="IBM150117C00145000" type="C">
+            <strikePrice>145</strikePrice>
+            <lastPrice>39.43</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>47.75</bid>
+            <ask>50.8</ask>
+            <vol>1</vol>
+            <openInt>92</openInt>
+         </option>
+         <option symbol="IBM150117C00150000" type="C">
+            <strikePrice>150</strikePrice>
+            <lastPrice>42.40</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>42.8</bid>
+            <ask>44.4</ask>
+            <vol>1</vol>
+            <openInt>1712</openInt>
+         </option>
+         <option symbol="IBM150117C00155000" type="C">
+            <strikePrice>155</strikePrice>
+            <lastPrice>39.00</lastPrice>
+            <change>3.4</change>
+            <changeDir>Up</changeDir>
+            <bid>37.85</bid>
+            <ask>38.8</ask>
+            <vol>5</vol>
+            <openInt>378</openInt>
+         </option>
+         <option symbol="IBM150117C00160000" type="C">
+            <strikePrice>160</strikePrice>
+            <lastPrice>33.90</lastPrice>
+            <change>2.6</change>
+            <changeDir>Up</changeDir>
+            <bid>33.65</bid>
+            <ask>33.95</ask>
+            <vol>54</vol>
+            <openInt>1497</openInt>
+         </option>
+         <option symbol="IBM150117C00165000" type="C">
+            <strikePrice>165</strikePrice>
+            <lastPrice>30.05</lastPrice>
+            <change>0.7</change>
+            <changeDir>Up</changeDir>
+            <bid>28.9</bid>
+            <ask>29.2</ask>
+            <vol>176</vol>
+            <openInt>1298</openInt>
+         </option>
+         <option symbol="IBM150117C00170000" type="C">
+            <strikePrice>170</strikePrice>
+            <lastPrice>25.08</lastPrice>
+            <change>0.18</change>
+            <changeDir>Up</changeDir>
+            <bid>24.4</bid>
+            <ask>25.3</ask>
+            <vol>64</vol>
+            <openInt>1735</openInt>
+         </option>
+         <option symbol="IBM150117C00175000" type="C">
+            <strikePrice>175</strikePrice>
+            <lastPrice>20.70</lastPrice>
+            <change>2.3</change>
+            <changeDir>Up</changeDir>
+            <bid>20.1</bid>
+            <ask>20.35</ask>
+            <vol>37</vol>
+            <openInt>5069</openInt>
+         </option>
+         <option symbol="IBM150117C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>17.00</lastPrice>
+            <change>-0.2</change>
+            <changeDir>Down</changeDir>
+            <bid>16.2</bid>
+            <ask>16.7</ask>
+            <vol>19</vol>
+            <openInt>2803</openInt>
+         </option>
+         <option symbol="IBM150117C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>13.49</lastPrice>
+            <change>0.84</change>
+            <changeDir>Up</changeDir>
+            <bid>12.7</bid>
+            <ask>12.85</ask>
+            <vol>20</vol>
+            <openInt>3637</openInt>
+         </option>
+         <option symbol="IBM150117C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>9.70</lastPrice>
+            <change>-0.55</change>
+            <changeDir>Down</changeDir>
+            <bid>9.55</bid>
+            <ask>9.85</ask>
+            <vol>38</vol>
+            <openInt>5882</openInt>
+         </option>
+         <option symbol="IBM150117C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>7.32</lastPrice>
+            <change>-0.18</change>
+            <changeDir>Down</changeDir>
+            <bid>6.95</bid>
+            <ask>7.2</ask>
+            <vol>108</vol>
+            <openInt>4036</openInt>
+         </option>
+         <option symbol="IBM150117C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>5.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>4.85</bid>
+            <ask>5.05</ask>
+            <vol>319</vol>
+            <openInt>7581</openInt>
+         </option>
+         <option symbol="IBM150117C00205000" type="C">
+            <strikePrice>205</strikePrice>
+            <lastPrice>3.45</lastPrice>
+            <change>-0.08</change>
+            <changeDir>Down</changeDir>
+            <bid>3.3</bid>
+            <ask>3.45</ask>
+            <vol>34</vol>
+            <openInt>2288</openInt>
+         </option>
+         <option symbol="IBM150117C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>2.28</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>2.2</bid>
+            <ask>2.26</ask>
+            <vol>132</vol>
+            <openInt>2227</openInt>
+         </option>
+         <option symbol="IBM150117C00215000" type="C">
+            <strikePrice>215</strikePrice>
+            <lastPrice>1.48</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>1.42</bid>
+            <ask>1.58</ask>
+            <vol>174</vol>
+            <openInt>2591</openInt>
+         </option>
+         <option symbol="IBM150117C00220000" type="C">
+            <strikePrice>220</strikePrice>
+            <lastPrice>0.90</lastPrice>
+            <change>-0.1</change>
+            <changeDir>Down</changeDir>
+            <bid>0.9</bid>
+            <ask>1.01</ask>
+            <vol>29</vol>
+            <openInt>2187</openInt>
+         </option>
+         <option symbol="IBM150117C00225000" type="C">
+            <strikePrice>225</strikePrice>
+            <lastPrice>0.63</lastPrice>
+            <change>0.03</change>
+            <changeDir>Up</changeDir>
+            <bid>0.57</bid>
+            <ask>0.66</ask>
+            <vol>11</vol>
+            <openInt>1174</openInt>
+         </option>
+         <option symbol="IBM150117C00230000" type="C">
+            <strikePrice>230</strikePrice>
+            <lastPrice>0.41</lastPrice>
+            <change>0.11</change>
+            <changeDir>Up</changeDir>
+            <bid>0.36</bid>
+            <ask>0.43</ask>
+            <vol>20</vol>
+            <openInt>1466</openInt>
+         </option>
+         <option symbol="IBM150117C00235000" type="C">
+            <strikePrice>235</strikePrice>
+            <lastPrice>0.26</lastPrice>
+            <change>-0.14</change>
+            <changeDir>Down</changeDir>
+            <bid>0.23</bid>
+            <ask>0.29</ask>
+            <vol>15</vol>
+            <openInt>615</openInt>
+         </option>
+         <option symbol="IBM150117C00240000" type="C">
+            <strikePrice>240</strikePrice>
+            <lastPrice>0.21</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.14</bid>
+            <ask>0.21</ask>
+            <vol>1</vol>
+            <openInt>554</openInt>
+         </option>
+         <option symbol="IBM150117C00245000" type="C">
+            <strikePrice>245</strikePrice>
+            <lastPrice>0.18</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.05</bid>
+            <ask>0.2</ask>
+            <vol>1</vol>
+            <openInt>101</openInt>
+         </option>
+         <option symbol="IBM150117C00250000" type="C">
+            <strikePrice>250</strikePrice>
+            <lastPrice>0.08</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.03</bid>
+            <ask>0.15</ask>
+            <vol>30</vol>
+            <openInt>3953</openInt>
+         </option>
+         <option symbol="IBM150117C00255000" type="C">
+            <strikePrice>255</strikePrice>
+            <lastPrice>0.11</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.14</ask>
+            <vol>20</vol>
+            <openInt>48</openInt>
+         </option>
+         <option symbol="IBM150117C00260000" type="C">
+            <strikePrice>260</strikePrice>
+            <lastPrice>0.06</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.12</ask>
+            <vol>5</vol>
+            <openInt>644</openInt>
+         </option>
+         <option symbol="IBM150117C00265000" type="C">
+            <strikePrice>265</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.01</bid>
+            <ask>0.11</ask>
+            <vol>12</vol>
+            <openInt>33</openInt>
+         </option>
+         <option symbol="IBM150117C00270000" type="C">
+            <strikePrice>270</strikePrice>
+            <lastPrice>0.03</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.09</ask>
+            <vol>12</vol>
+            <openInt>696</openInt>
+         </option>
+         <option symbol="IBM150117C00275000" type="C">
+            <strikePrice>275</strikePrice>
+            <lastPrice>0.56</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.08</ask>
+            <vol>NaN</vol>
+            <openInt>1</openInt>
+         </option>
+         <option symbol="IBM150117C00280000" type="C">
+            <strikePrice>280</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.07</ask>
+            <vol>13</vol>
+            <openInt>198</openInt>
+         </option>
+         <option symbol="IBM150117C00290000" type="C">
+            <strikePrice>290</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.06</ask>
+            <vol>3</vol>
+            <openInt>544</openInt>
+         </option>
+         <option symbol="IBM150117C00300000" type="C">
+            <strikePrice>300</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.05</ask>
+            <vol>1</vol>
+            <openInt>5093</openInt>
+         </option>
+         <option symbol="IBM150117C00310000" type="C">
+            <strikePrice>310</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.04</ask>
+            <vol>6</vol>
+            <openInt>225</openInt>
+         </option>
+         <option symbol="IBM150117C00320000" type="C">
+            <strikePrice>320</strikePrice>
+            <lastPrice>0.11</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>NaN</bid>
+            <ask>0.04</ask>
+            <vol>3</vol>
+            <openInt>214</openInt>
+         </option>
+         <option symbol="IBM150117P00090000" type="P">
+            <strikePrice>90</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.04</bid>
+            <ask>0.08</ask>
+            <vol>1</vol>
+            <openInt>141</openInt>
+         </option>
+         <option symbol="IBM150117P00095000" type="P">
+            <strikePrice>95</strikePrice>
+            <lastPrice>0.04</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.03</bid>
+            <ask>0.09</ask>
+            <vol>2</vol>
+            <openInt>387</openInt>
+         </option>
+         <option symbol="IBM150117P00100000" type="P">
+            <strikePrice>100</strikePrice>
+            <lastPrice>0.07</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.07</bid>
+            <ask>0.11</ask>
+            <vol>10</vol>
+            <openInt>751</openInt>
+         </option>
+         <option symbol="IBM150117P00105000" type="P">
+            <strikePrice>105</strikePrice>
+            <lastPrice>0.19</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.07</bid>
+            <ask>0.13</ask>
+            <vol>213</vol>
+            <openInt>1333</openInt>
+         </option>
+         <option symbol="IBM150117P00110000" type="P">
+            <strikePrice>110</strikePrice>
+            <lastPrice>0.22</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.06</bid>
+            <ask>0.17</ask>
+            <vol>3</vol>
+            <openInt>987</openInt>
+         </option>
+         <option symbol="IBM150117P00115000" type="P">
+            <strikePrice>115</strikePrice>
+            <lastPrice>0.17</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.1</bid>
+            <ask>0.2</ask>
+            <vol>20</vol>
+            <openInt>1236</openInt>
+         </option>
+         <option symbol="IBM150117P00120000" type="P">
+            <strikePrice>120</strikePrice>
+            <lastPrice>0.18</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.1</bid>
+            <ask>0.24</ask>
+            <vol>12</vol>
+            <openInt>2166</openInt>
+         </option>
+         <option symbol="IBM150117P00125000" type="P">
+            <strikePrice>125</strikePrice>
+            <lastPrice>0.31</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.14</bid>
+            <ask>0.29</ask>
+            <vol>59</vol>
+            <openInt>959</openInt>
+         </option>
+         <option symbol="IBM150117P00130000" type="P">
+            <strikePrice>130</strikePrice>
+            <lastPrice>0.32</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.21</bid>
+            <ask>0.36</ask>
+            <vol>3</vol>
+            <openInt>844</openInt>
+         </option>
+         <option symbol="IBM150117P00135000" type="P">
+            <strikePrice>135</strikePrice>
+            <lastPrice>0.37</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.26</bid>
+            <ask>0.43</ask>
+            <vol>30</vol>
+            <openInt>990</openInt>
+         </option>
+         <option symbol="IBM150117P00140000" type="P">
+            <strikePrice>140</strikePrice>
+            <lastPrice>0.45</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.36</bid>
+            <ask>0.49</ask>
+            <vol>22</vol>
+            <openInt>1384</openInt>
+         </option>
+         <option symbol="IBM150117P00145000" type="P">
+            <strikePrice>145</strikePrice>
+            <lastPrice>0.51</lastPrice>
+            <change>-0.14</change>
+            <changeDir>Down</changeDir>
+            <bid>0.47</bid>
+            <ask>0.52</ask>
+            <vol>66</vol>
+            <openInt>1522</openInt>
+         </option>
+         <option symbol="IBM150117P00150000" type="P">
+            <strikePrice>150</strikePrice>
+            <lastPrice>0.63</lastPrice>
+            <change>-0.09</change>
+            <changeDir>Down</changeDir>
+            <bid>0.63</bid>
+            <ask>0.65</ask>
+            <vol>2714</vol>
+            <openInt>8801</openInt>
+         </option>
+         <option symbol="IBM150117P00155000" type="P">
+            <strikePrice>155</strikePrice>
+            <lastPrice>0.84</lastPrice>
+            <change>-0.11</change>
+            <changeDir>Down</changeDir>
+            <bid>0.83</bid>
+            <ask>0.89</ask>
+            <vol>411</vol>
+            <openInt>2017</openInt>
+         </option>
+         <option symbol="IBM150117P00160000" type="P">
+            <strikePrice>160</strikePrice>
+            <lastPrice>1.15</lastPrice>
+            <change>-0.02</change>
+            <changeDir>Down</changeDir>
+            <bid>1.13</bid>
+            <ask>1.15</ask>
+            <vol>27</vol>
+            <openInt>4001</openInt>
+         </option>
+         <option symbol="IBM150117P00165000" type="P">
+            <strikePrice>165</strikePrice>
+            <lastPrice>1.50</lastPrice>
+            <change>-0.13</change>
+            <changeDir>Down</changeDir>
+            <bid>1.52</bid>
+            <ask>1.61</ask>
+            <vol>25</vol>
+            <openInt>3246</openInt>
+         </option>
+         <option symbol="IBM150117P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>2.15</lastPrice>
+            <change>-0.04</change>
+            <changeDir>Down</changeDir>
+            <bid>2.12</bid>
+            <ask>2.2</ask>
+            <vol>138</vol>
+            <openInt>3881</openInt>
+         </option>
+         <option symbol="IBM150117P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>3.00</lastPrice>
+            <change>0.05</change>
+            <changeDir>Up</changeDir>
+            <bid>2.89</bid>
+            <ask>3.05</ask>
+            <vol>14</vol>
+            <openInt>3569</openInt>
+         </option>
+         <option symbol="IBM150117P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>3.85</lastPrice>
+            <change>-0.35</change>
+            <changeDir>Down</changeDir>
+            <bid>4</bid>
+            <ask>4.2</ask>
+            <vol>42</vol>
+            <openInt>5127</openInt>
+         </option>
+         <option symbol="IBM150117P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>5.55</lastPrice>
+            <change>0.02</change>
+            <changeDir>Up</changeDir>
+            <bid>5.5</bid>
+            <ask>5.7</ask>
+            <vol>10</vol>
+            <openInt>3490</openInt>
+         </option>
+         <option symbol="IBM150117P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>7.45</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>7.5</bid>
+            <ask>7.65</ask>
+            <vol>54</vol>
+            <openInt>2657</openInt>
+         </option>
+         <option symbol="IBM150117P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>10.00</lastPrice>
+            <change>0.25</change>
+            <changeDir>Up</changeDir>
+            <bid>9.95</bid>
+            <ask>10.15</ask>
+            <vol>12</vol>
+            <openInt>3665</openInt>
+         </option>
+         <option symbol="IBM150117P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>12.80</lastPrice>
+            <change>0.1</change>
+            <changeDir>Up</changeDir>
+            <bid>12.8</bid>
+            <ask>13.1</ask>
+            <vol>15</vol>
+            <openInt>1398</openInt>
+         </option>
+         <option symbol="IBM150117P00205000" type="P">
+            <strikePrice>205</strikePrice>
+            <lastPrice>18.15</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>16.3</bid>
+            <ask>16.55</ask>
+            <vol>24</vol>
+            <openInt>189</openInt>
+         </option>
+         <option symbol="IBM150117P00210000" type="P">
+            <strikePrice>210</strikePrice>
+            <lastPrice>26.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>20.1</bid>
+            <ask>20.5</ask>
+            <vol>3</vol>
+            <openInt>485</openInt>
+         </option>
+         <option symbol="IBM150117P00215000" type="P">
+            <strikePrice>215</strikePrice>
+            <lastPrice>25.78</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>23.15</bid>
+            <ask>24.75</ask>
+            <vol>1</vol>
+            <openInt>137</openInt>
+         </option>
+         <option symbol="IBM150117P00220000" type="P">
+            <strikePrice>220</strikePrice>
+            <lastPrice>29.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>27.25</bid>
+            <ask>29.7</ask>
+            <vol>2</vol>
+            <openInt>231</openInt>
+         </option>
+         <option symbol="IBM150117P00225000" type="P">
+            <strikePrice>225</strikePrice>
+            <lastPrice>33.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>32.05</bid>
+            <ask>33.9</ask>
+            <vol>1</vol>
+            <openInt>227</openInt>
+         </option>
+         <option symbol="IBM150117P00230000" type="P">
+            <strikePrice>230</strikePrice>
+            <lastPrice>40.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>36.25</bid>
+            <ask>39.5</ask>
+            <vol>30</vol>
+            <openInt>284</openInt>
+         </option>
+         <option symbol="IBM150117P00235000" type="P">
+            <strikePrice>235</strikePrice>
+            <lastPrice>58.50</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>41.25</bid>
+            <ask>44.75</ask>
+            <vol>NaN</vol>
+            <openInt>47</openInt>
+         </option>
+         <option symbol="IBM150117P00240000" type="P">
+            <strikePrice>240</strikePrice>
+            <lastPrice>50.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>46.55</bid>
+            <ask>49.3</ask>
+            <vol>1</vol>
+            <openInt>63</openInt>
+         </option>
+         <option symbol="IBM150117P00250000" type="P">
+            <strikePrice>250</strikePrice>
+            <lastPrice>59.40</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>55.8</bid>
+            <ask>59.35</ask>
+            <vol>20</vol>
+            <openInt>831</openInt>
+         </option>
+         <option symbol="IBM150117P00260000" type="P">
+            <strikePrice>260</strikePrice>
+            <lastPrice>70.80</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>65.75</bid>
+            <ask>69.6</ask>
+            <vol>50</vol>
+            <openInt>49</openInt>
+         </option>
+         <option symbol="IBM150117P00270000" type="P">
+            <strikePrice>270</strikePrice>
+            <lastPrice>91.50</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>75.8</bid>
+            <ask>79.8</ask>
+            <vol>NaN</vol>
+            <openInt>14</openInt>
+         </option>
+         <option symbol="IBM150117P00280000" type="P">
+            <strikePrice>280</strikePrice>
+            <lastPrice>94.56</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>85.75</bid>
+            <ask>89.8</ask>
+            <vol>6</vol>
+            <openInt>8</openInt>
+         </option>
+         <option symbol="IBM150117P00290000" type="P">
+            <strikePrice>290</strikePrice>
+            <lastPrice>117.10</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>95.7</bid>
+            <ask>99.85</ask>
+            <vol>NaN</vol>
+            <openInt>13</openInt>
+         </option>
+         <option symbol="IBM150117P00300000" type="P">
+            <strikePrice>300</strikePrice>
+            <lastPrice>114.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>105.75</bid>
+            <ask>109.75</ask>
+            <vol>1</vol>
+            <openInt>240</openInt>
+         </option>
+         <option symbol="IBM150117P00310000" type="P">
+            <strikePrice>310</strikePrice>
+            <lastPrice>129.46</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>115.75</bid>
+            <ask>119.85</ask>
+            <vol>NaN</vol>
+            <openInt>33</openInt>
+         </option>
+         <option symbol="IBM150117P00320000" type="P">
+            <strikePrice>320</strikePrice>
+            <lastPrice>137.73</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>125.7</bid>
+            <ask>129.75</ask>
+            <vol>1</vol>
+            <openInt>39</openInt>
+         </option>
+      </optionsChain>
+      <optionsChain expiration="2016-01-15" symbol="IBM">
+         <option symbol="IBM160115C00090000" type="C">
+            <strikePrice>90</strikePrice>
+            <lastPrice>93.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>102</bid>
+            <ask>106.1</ask>
+            <vol>2</vol>
+            <openInt>2</openInt>
+         </option>
+         <option symbol="IBM160115C00100000" type="C">
+            <strikePrice>100</strikePrice>
+            <lastPrice>87.55</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>92</bid>
+            <ask>96.1</ask>
+            <vol>2</vol>
+            <openInt>22</openInt>
+         </option>
+         <option symbol="IBM160115C00110000" type="C">
+            <strikePrice>110</strikePrice>
+            <lastPrice>75.19</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>82</bid>
+            <ask>86.1</ask>
+            <vol>3</vol>
+            <openInt>3</openInt>
+         </option>
+         <option symbol="IBM160115C00120000" type="C">
+            <strikePrice>120</strikePrice>
+            <lastPrice>71.20</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>72</bid>
+            <ask>76.1</ask>
+            <vol>5</vol>
+            <openInt>27</openInt>
+         </option>
+         <option symbol="IBM160115C00125000" type="C">
+            <strikePrice>125</strikePrice>
+            <lastPrice>69.85</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>67</bid>
+            <ask>71.1</ask>
+            <vol>1</vol>
+            <openInt>331</openInt>
+         </option>
+         <option symbol="IBM160115C00130000" type="C">
+            <strikePrice>130</strikePrice>
+            <lastPrice>65.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>62</bid>
+            <ask>66.1</ask>
+            <vol>2</vol>
+            <openInt>159</openInt>
+         </option>
+         <option symbol="IBM160115C00135000" type="C">
+            <strikePrice>135</strikePrice>
+            <lastPrice>57.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>57.25</bid>
+            <ask>61.1</ask>
+            <vol>1</vol>
+            <openInt>60</openInt>
+         </option>
+         <option symbol="IBM160115C00140000" type="C">
+            <strikePrice>140</strikePrice>
+            <lastPrice>52.75</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>52.45</bid>
+            <ask>56.25</ask>
+            <vol>11</vol>
+            <openInt>792</openInt>
+         </option>
+         <option symbol="IBM160115C00145000" type="C">
+            <strikePrice>145</strikePrice>
+            <lastPrice>43.60</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>47.65</bid>
+            <ask>51.55</ask>
+            <vol>1</vol>
+            <openInt>121</openInt>
+         </option>
+         <option symbol="IBM160115C00150000" type="C">
+            <strikePrice>150</strikePrice>
+            <lastPrice>45.30</lastPrice>
+            <change>3.3</change>
+            <changeDir>Up</changeDir>
+            <bid>43.7</bid>
+            <ask>46.55</ask>
+            <vol>2</vol>
+            <openInt>1465</openInt>
+         </option>
+         <option symbol="IBM160115C00155000" type="C">
+            <strikePrice>155</strikePrice>
+            <lastPrice>36.70</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>40.3</bid>
+            <ask>42</ask>
+            <vol>3</vol>
+            <openInt>259</openInt>
+         </option>
+         <option symbol="IBM160115C00160000" type="C">
+            <strikePrice>160</strikePrice>
+            <lastPrice>37.09</lastPrice>
+            <change>1.94</change>
+            <changeDir>Up</changeDir>
+            <bid>36.2</bid>
+            <ask>37.55</ask>
+            <vol>20</vol>
+            <openInt>422</openInt>
+         </option>
+         <option symbol="IBM160115C00165000" type="C">
+            <strikePrice>165</strikePrice>
+            <lastPrice>32.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>32.3</bid>
+            <ask>34</ask>
+            <vol>2</vol>
+            <openInt>406</openInt>
+         </option>
+         <option symbol="IBM160115C00170000" type="C">
+            <strikePrice>170</strikePrice>
+            <lastPrice>29.50</lastPrice>
+            <change>1.5</change>
+            <changeDir>Up</changeDir>
+            <bid>28.6</bid>
+            <ask>30.1</ask>
+            <vol>4</vol>
+            <openInt>880</openInt>
+         </option>
+         <option symbol="IBM160115C00175000" type="C">
+            <strikePrice>175</strikePrice>
+            <lastPrice>25.60</lastPrice>
+            <change>0.1</change>
+            <changeDir>Up</changeDir>
+            <bid>25.45</bid>
+            <ask>25.95</ask>
+            <vol>4</vol>
+            <openInt>919</openInt>
+         </option>
+         <option symbol="IBM160115C00180000" type="C">
+            <strikePrice>180</strikePrice>
+            <lastPrice>22.60</lastPrice>
+            <change>-0.47</change>
+            <changeDir>Down</changeDir>
+            <bid>22.25</bid>
+            <ask>22.7</ask>
+            <vol>1</vol>
+            <openInt>1120</openInt>
+         </option>
+         <option symbol="IBM160115C00185000" type="C">
+            <strikePrice>185</strikePrice>
+            <lastPrice>20.35</lastPrice>
+            <change>0.55</change>
+            <changeDir>Up</changeDir>
+            <bid>19.35</bid>
+            <ask>19.7</ask>
+            <vol>2</vol>
+            <openInt>681</openInt>
+         </option>
+         <option symbol="IBM160115C00190000" type="C">
+            <strikePrice>190</strikePrice>
+            <lastPrice>16.95</lastPrice>
+            <change>-0.15</change>
+            <changeDir>Down</changeDir>
+            <bid>16.65</bid>
+            <ask>17</ask>
+            <vol>11</vol>
+            <openInt>1790</openInt>
+         </option>
+         <option symbol="IBM160115C00195000" type="C">
+            <strikePrice>195</strikePrice>
+            <lastPrice>14.80</lastPrice>
+            <change>0.13</change>
+            <changeDir>Up</changeDir>
+            <bid>14.3</bid>
+            <ask>14.6</ask>
+            <vol>25</vol>
+            <openInt>410</openInt>
+         </option>
+         <option symbol="IBM160115C00200000" type="C">
+            <strikePrice>200</strikePrice>
+            <lastPrice>12.65</lastPrice>
+            <change>0.35</change>
+            <changeDir>Up</changeDir>
+            <bid>12.15</bid>
+            <ask>12.5</ask>
+            <vol>83</vol>
+            <openInt>3055</openInt>
+         </option>
+         <option symbol="IBM160115C00210000" type="C">
+            <strikePrice>210</strikePrice>
+            <lastPrice>8.95</lastPrice>
+            <change>0.35</change>
+            <changeDir>Up</changeDir>
+            <bid>8.6</bid>
+            <ask>8.95</ask>
+            <vol>80</vol>
+            <openInt>991</openInt>
+         </option>
+         <option symbol="IBM160115C00220000" type="C">
+            <strikePrice>220</strikePrice>
+            <lastPrice>6.35</lastPrice>
+            <change>0.35</change>
+            <changeDir>Up</changeDir>
+            <bid>6</bid>
+            <ask>6.3</ask>
+            <vol>22</vol>
+            <openInt>655</openInt>
+         </option>
+         <option symbol="IBM160115C00230000" type="C">
+            <strikePrice>230</strikePrice>
+            <lastPrice>4.40</lastPrice>
+            <change>0.15</change>
+            <changeDir>Up</changeDir>
+            <bid>4.1</bid>
+            <ask>4.4</ask>
+            <vol>22</vol>
+            <openInt>875</openInt>
+         </option>
+         <option symbol="IBM160115C00240000" type="C">
+            <strikePrice>240</strikePrice>
+            <lastPrice>3.05</lastPrice>
+            <change>0.15</change>
+            <changeDir>Up</changeDir>
+            <bid>2.75</bid>
+            <ask>3.05</ask>
+            <vol>18</vol>
+            <openInt>499</openInt>
+         </option>
+         <option symbol="IBM160115C00250000" type="C">
+            <strikePrice>250</strikePrice>
+            <lastPrice>2.09</lastPrice>
+            <change>0.29</change>
+            <changeDir>Up</changeDir>
+            <bid>1.84</bid>
+            <ask>2.09</ask>
+            <vol>16</vol>
+            <openInt>1090</openInt>
+         </option>
+         <option symbol="IBM160115C00260000" type="C">
+            <strikePrice>260</strikePrice>
+            <lastPrice>1.46</lastPrice>
+            <change>0.14</change>
+            <changeDir>Up</changeDir>
+            <bid>1.2</bid>
+            <ask>1.42</ask>
+            <vol>16</vol>
+            <openInt>340</openInt>
+         </option>
+         <option symbol="IBM160115C00270000" type="C">
+            <strikePrice>270</strikePrice>
+            <lastPrice>0.81</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.75</bid>
+            <ask>1.03</ask>
+            <vol>8</vol>
+            <openInt>199</openInt>
+         </option>
+         <option symbol="IBM160115C00280000" type="C">
+            <strikePrice>280</strikePrice>
+            <lastPrice>0.53</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.51</bid>
+            <ask>0.75</ask>
+            <vol>28</vol>
+            <openInt>198</openInt>
+         </option>
+         <option symbol="IBM160115C00290000" type="C">
+            <strikePrice>290</strikePrice>
+            <lastPrice>0.42</lastPrice>
+            <change>0.02</change>
+            <changeDir>Up</changeDir>
+            <bid>0.36</bid>
+            <ask>0.57</ask>
+            <vol>11</vol>
+            <openInt>179</openInt>
+         </option>
+         <option symbol="IBM160115P00090000" type="P">
+            <strikePrice>90</strikePrice>
+            <lastPrice>0.32</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.28</bid>
+            <ask>0.51</ask>
+            <vol>5</vol>
+            <openInt>351</openInt>
+         </option>
+         <option symbol="IBM160115P00095000" type="P">
+            <strikePrice>95</strikePrice>
+            <lastPrice>0.70</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.38</bid>
+            <ask>0.6</ask>
+            <vol>3</vol>
+            <openInt>165</openInt>
+         </option>
+         <option symbol="IBM160115P00100000" type="P">
+            <strikePrice>100</strikePrice>
+            <lastPrice>0.75</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.5</bid>
+            <ask>0.72</ask>
+            <vol>10</vol>
+            <openInt>300</openInt>
+         </option>
+         <option symbol="IBM160115P00105000" type="P">
+            <strikePrice>105</strikePrice>
+            <lastPrice>0.75</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.64</bid>
+            <ask>0.85</ask>
+            <vol>10</vol>
+            <openInt>347</openInt>
+         </option>
+         <option symbol="IBM160115P00110000" type="P">
+            <strikePrice>110</strikePrice>
+            <lastPrice>1.05</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>0.95</bid>
+            <ask>1.02</ask>
+            <vol>5</vol>
+            <openInt>218</openInt>
+         </option>
+         <option symbol="IBM160115P00115000" type="P">
+            <strikePrice>115</strikePrice>
+            <lastPrice>1.15</lastPrice>
+            <change>-0.04</change>
+            <changeDir>Down</changeDir>
+            <bid>0.98</bid>
+            <ask>1.23</ask>
+            <vol>17</vol>
+            <openInt>360</openInt>
+         </option>
+         <option symbol="IBM160115P00120000" type="P">
+            <strikePrice>120</strikePrice>
+            <lastPrice>1.49</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>1.35</bid>
+            <ask>1.47</ask>
+            <vol>9</vol>
+            <openInt>480</openInt>
+         </option>
+         <option symbol="IBM160115P00125000" type="P">
+            <strikePrice>125</strikePrice>
+            <lastPrice>1.83</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>1.6</bid>
+            <ask>1.77</ask>
+            <vol>15</vol>
+            <openInt>334</openInt>
+         </option>
+         <option symbol="IBM160115P00130000" type="P">
+            <strikePrice>130</strikePrice>
+            <lastPrice>2.13</lastPrice>
+            <change>-0.05</change>
+            <changeDir>Down</changeDir>
+            <bid>1.95</bid>
+            <ask>2.13</ask>
+            <vol>9</vol>
+            <openInt>800</openInt>
+         </option>
+         <option symbol="IBM160115P00135000" type="P">
+            <strikePrice>135</strikePrice>
+            <lastPrice>2.52</lastPrice>
+            <change>-0.1</change>
+            <changeDir>Down</changeDir>
+            <bid>2.35</bid>
+            <ask>2.52</ask>
+            <vol>37</vol>
+            <openInt>386</openInt>
+         </option>
+         <option symbol="IBM160115P00140000" type="P">
+            <strikePrice>140</strikePrice>
+            <lastPrice>3.05</lastPrice>
+            <change>-0.05</change>
+            <changeDir>Down</changeDir>
+            <bid>2.83</bid>
+            <ask>3.05</ask>
+            <vol>27</vol>
+            <openInt>804</openInt>
+         </option>
+         <option symbol="IBM160115P00145000" type="P">
+            <strikePrice>145</strikePrice>
+            <lastPrice>3.65</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>3.4</bid>
+            <ask>3.65</ask>
+            <vol>27</vol>
+            <openInt>615</openInt>
+         </option>
+         <option symbol="IBM160115P00150000" type="P">
+            <strikePrice>150</strikePrice>
+            <lastPrice>4.35</lastPrice>
+            <change>-0.05</change>
+            <changeDir>Down</changeDir>
+            <bid>4.15</bid>
+            <ask>4.4</ask>
+            <vol>36</vol>
+            <openInt>1596</openInt>
+         </option>
+         <option symbol="IBM160115P00155000" type="P">
+            <strikePrice>155</strikePrice>
+            <lastPrice>5.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>4.95</bid>
+            <ask>5.3</ask>
+            <vol>6</vol>
+            <openInt>673</openInt>
+         </option>
+         <option symbol="IBM160115P00160000" type="P">
+            <strikePrice>160</strikePrice>
+            <lastPrice>6.15</lastPrice>
+            <change>-0.25</change>
+            <changeDir>Down</changeDir>
+            <bid>6.05</bid>
+            <ask>6.3</ask>
+            <vol>38</vol>
+            <openInt>1304</openInt>
+         </option>
+         <option symbol="IBM160115P00165000" type="P">
+            <strikePrice>165</strikePrice>
+            <lastPrice>7.45</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>7.2</bid>
+            <ask>7.5</ask>
+            <vol>39</vol>
+            <openInt>2583</openInt>
+         </option>
+         <option symbol="IBM160115P00170000" type="P">
+            <strikePrice>170</strikePrice>
+            <lastPrice>8.85</lastPrice>
+            <change>0.03</change>
+            <changeDir>Up</changeDir>
+            <bid>8.65</bid>
+            <ask>8.95</ask>
+            <vol>36</vol>
+            <openInt>1469</openInt>
+         </option>
+         <option symbol="IBM160115P00175000" type="P">
+            <strikePrice>175</strikePrice>
+            <lastPrice>10.45</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>10.3</bid>
+            <ask>10.55</ask>
+            <vol>49</vol>
+            <openInt>1402</openInt>
+         </option>
+         <option symbol="IBM160115P00180000" type="P">
+            <strikePrice>180</strikePrice>
+            <lastPrice>12.30</lastPrice>
+            <change>0.1</change>
+            <changeDir>Up</changeDir>
+            <bid>12.15</bid>
+            <ask>12.45</ask>
+            <vol>20</vol>
+            <openInt>1101</openInt>
+         </option>
+         <option symbol="IBM160115P00185000" type="P">
+            <strikePrice>185</strikePrice>
+            <lastPrice>14.45</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>14.25</bid>
+            <ask>14.55</ask>
+            <vol>126</vol>
+            <openInt>682</openInt>
+         </option>
+         <option symbol="IBM160115P00190000" type="P">
+            <strikePrice>190</strikePrice>
+            <lastPrice>16.75</lastPrice>
+            <change>-0.05</change>
+            <changeDir>Down</changeDir>
+            <bid>16.6</bid>
+            <ask>16.95</ask>
+            <vol>15</vol>
+            <openInt>840</openInt>
+         </option>
+         <option symbol="IBM160115P00195000" type="P">
+            <strikePrice>195</strikePrice>
+            <lastPrice>19.20</lastPrice>
+            <change>-0.35</change>
+            <changeDir>Down</changeDir>
+            <bid>19.25</bid>
+            <ask>19.55</ask>
+            <vol>19</vol>
+            <openInt>266</openInt>
+         </option>
+         <option symbol="IBM160115P00200000" type="P">
+            <strikePrice>200</strikePrice>
+            <lastPrice>21.60</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>22</bid>
+            <ask>22.45</ask>
+            <vol>2</vol>
+            <openInt>1720</openInt>
+         </option>
+         <option symbol="IBM160115P00210000" type="P">
+            <strikePrice>210</strikePrice>
+            <lastPrice>28.40</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>28.45</bid>
+            <ask>28.95</ask>
+            <vol>1</vol>
+            <openInt>364</openInt>
+         </option>
+         <option symbol="IBM160115P00220000" type="P">
+            <strikePrice>220</strikePrice>
+            <lastPrice>36.70</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>35.8</bid>
+            <ask>36.3</ask>
+            <vol>1</vol>
+            <openInt>181</openInt>
+         </option>
+         <option symbol="IBM160115P00230000" type="P">
+            <strikePrice>230</strikePrice>
+            <lastPrice>53.00</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>42.45</bid>
+            <ask>45.75</ask>
+            <vol>1</vol>
+            <openInt>29</openInt>
+         </option>
+         <option symbol="IBM160115P00240000" type="P">
+            <strikePrice>240</strikePrice>
+            <lastPrice>53.25</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>51.1</bid>
+            <ask>53.05</ask>
+            <vol>2</vol>
+            <openInt>37</openInt>
+         </option>
+         <option symbol="IBM160115P00250000" type="P">
+            <strikePrice>250</strikePrice>
+            <lastPrice>63.50</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>59.55</bid>
+            <ask>63.05</ask>
+            <vol>25</vol>
+            <openInt>53</openInt>
+         </option>
+         <option symbol="IBM160115P00260000" type="P">
+            <strikePrice>260</strikePrice>
+            <lastPrice>70.50</lastPrice>
+            <change>-8.71</change>
+            <changeDir>Down</changeDir>
+            <bid>68.75</bid>
+            <ask>72.65</ask>
+            <vol>1</vol>
+            <openInt>102</openInt>
+         </option>
+         <option symbol="IBM160115P00280000" type="P">
+            <strikePrice>280</strikePrice>
+            <lastPrice>96.06</lastPrice>
+            <change>0</change>
+            <changeDir />
+            <bid>87.85</bid>
+            <ask>92</ask>
+            <vol>6</vol>
+            <openInt>6</openInt>
+         </option>
+      </optionsChain>
+   </results>
+</query>
+<!-- total: 1589 -->
+<!-- engine8.yql.bf1.yahoo.com -->
