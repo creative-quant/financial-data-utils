@@ -6,6 +6,8 @@ from setuptools.command.test import test as TestCommand
 packages = [
 'financial_data_utils',
 'financial_data_utils.options',
+'financial_data_utils.libor',
+'financial_data_utils.libor.globalrates'
 ]
 
 requires = ['requests==2.3.0','argparse==1.2.1']
