@@ -6,6 +6,7 @@ from setuptools.command.test import test as TestCommand
 packages = [
 'financial_data_utils',
 'financial_data_utils.options',
+'financial_data_utils.options.yahoo',
 'financial_data_utils.libor',
 'financial_data_utils.libor.globalrates'
 ]

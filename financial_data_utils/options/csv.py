@@ -1,7 +1,4 @@
-
-from .yahoo_finance import YahooFinance
-
-class OptionsCSV () :
+class CSV () :
 
     def write ( self, lastTrade, options ) :
 
